@@ -1,0 +1,111 @@
+{
+    "source_video": "data/input_real/test_video.mp4",
+    "selection_method": "scene_midpoint",
+    "total_keyframes": 13,
+    "keyframes": [
+        {
+            "scene_id": 1,
+            "scene_start_seconds": 0.0,
+            "scene_end_seconds": 6.506,
+            "timestamp_seconds": 3.0,
+            "original_frame_path": "data/frames/test_video/frame_0003.jpg",
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_001_keyframe.jpg"
+        },
+        {
+            "scene_id": 2,
+            "scene_start_seconds": 6.506,
+            "scene_end_seconds": 16.617,
+            "timestamp_seconds": 12.0,
+            "original_frame_path": "data/frames/test_video/frame_0012.jpg",
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_002_keyframe.jpg"
+        },
+        {
+            "scene_id": 3,
+            "scene_start_seconds": 16.617,
+            "scene_end_seconds": 25.359,
+            "timestamp_seconds": 21.0,
+            "original_frame_path": "data/frames/test_video/frame_0021.jpg",
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_003_keyframe.jpg"
+        },
+        {
+            "scene_id": 4,
+            "scene_start_seconds": 25.359,
+            "scene_end_seconds": 34.501,
+            "timestamp_seconds": 30.0,
+            "original_frame_path": "data/frames/test_video/frame_0030.jpg",
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_004_keyframe.jpg"
+        },
+        {
+            "scene_id": 5,
+            "scene_start_seconds": 34.501,
+            "scene_end_seconds": 44.411,
+            "timestamp_seconds": 39.0,
+            "original_frame_path": "data/frames/test_video/frame_0039.jpg",
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_005_keyframe.jpg"
+        },
+        {
+            "scene_id": 6,
+            "scene_start_seconds": 44.411,
+            "scene_end_seconds": 49.316,
+            "timestamp_seconds": 47.0,
+            "original_frame_path": "data/frames/test_video/frame_0047.jpg",
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_006_keyframe.jpg"
+        },
+        {
+            "scene_id": 7,
+            "scene_start_seconds": 49.316,
+            "scene_end_seconds": 58.292,
+            "timestamp_seconds": 54.0,
+            "original_frame_path": "data/frames/test_video/frame_0054.jpg",
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_007_keyframe.jpg"
+        },
+        {
+            "scene_id": 8,
+            "scene_start_seconds": 58.292,
+            "scene_end_seconds": 60.093,
+            "timestamp_seconds": 59.0,
+            "original_frame_path": "data/frames/test_video/frame_0059.jpg",
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_008_keyframe.jpg"
+        },
+        {
+            "scene_id": 9,
+            "scene_start_seconds": 60.093,
+            "scene_end_seconds": 73.04,
+            "timestamp_seconds": 67.0,
+            "original_frame_path": "data/frames/test_video/frame_0067.jpg",
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_009_keyframe.jpg"
+        },
+        {
+            "scene_id": 10,
+            "scene_start_seconds": 73.04,
+            "scene_end_seconds": 77.644,
+            "timestamp_seconds": 75.0,
+            "original_frame_path": "data/frames/test_video/frame_0075.jpg",
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_010_keyframe.jpg"
+        },
+        {
+            "scene_id": 11,
+            "scene_start_seconds": 77.644,
+            "scene_end_seconds": 80.681,
+            "timestamp_seconds": 79.0,
+            "original_frame_path": "data/frames/test_video/frame_0079.jpg",
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_011_keyframe.jpg"
+        },
+        {
+            "scene_id": 12,
+            "scene_start_seconds": 80.681,
+            "scene_end_seconds": 90.891,
+            "timestamp_seconds": 86.0,
+            "original_frame_path": "data/frames/test_video/frame_0086.jpg",
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_012_keyframe.jpg"
+        },
+        {
+            "scene_id": 13,
+            "scene_start_seconds": 90.891,
+            "scene_end_seconds": 98.398,
+            "timestamp_seconds": 95.0,
+            "original_frame_path": "data/frames/test_video/frame_0095.jpg",
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_013_keyframe.jpg"
+        }
+    ]
+}

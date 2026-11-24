@@ -1,0 +1,293 @@
+{
+    "source_video": "data/input_real/test_video.mp4",
+    "model": "qwen2.5vl:3b",
+    "total_scenes": 13,
+    "total_inference_time_seconds": 77.342,
+    "average_inference_time_seconds": 5.949,
+    "scenes": [
+        {
+            "scene_id": 1,
+            "start_seconds": 0.0,
+            "end_seconds": 6.506,
+            "timestamp_seconds": 3.0,
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_001_keyframe.jpg",
+            "description": "A group of people are sitting around a table in a formal setting, possibly a press conference or meeting.",
+            "visible_entities": [
+                "people",
+                "table",
+                "papers",
+                "microphones",
+                "background"
+            ],
+            "activities": [
+                "listening",
+                "speaking",
+                "smiling"
+            ],
+            "environment": "The setting appears to be a formal room with blue curtains, a fireplace, and a coat of arms on the wall, suggesting an official or governmental environment.",
+            "inference_time_seconds": 24.325
+        },
+        {
+            "scene_id": 2,
+            "start_seconds": 6.506,
+            "end_seconds": 16.617,
+            "timestamp_seconds": 12.0,
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_002_keyframe.jpg",
+            "description": "A woman is sitting at a table, looking at a piece of paper.",
+            "visible_entities": [
+                "woman",
+                "table",
+                "paper"
+            ],
+            "activities": [
+                "looking at paper"
+            ],
+            "environment": "The background includes a blue wall, a window with a curtain, and an air conditioning unit.",
+            "inference_time_seconds": 3.633
+        },
+        {
+            "scene_id": 3,
+            "start_seconds": 16.617,
+            "end_seconds": 25.359,
+            "timestamp_seconds": 21.0,
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_003_keyframe.jpg",
+            "description": "A person wearing a blue and black striped sweater is sitting at a table, holding a pen and looking at the camera.",
+            "visible_entities": [
+                "person wearing a blue and black striped sweater",
+                "pen",
+                "table"
+            ],
+            "activities": [
+                "holding a pen",
+                "looking at the camera"
+            ],
+            "environment": "A room with a blue wall and a dark door in the background.",
+            "inference_time_seconds": 4.117
+        },
+        {
+            "scene_id": 4,
+            "start_seconds": 25.359,
+            "end_seconds": 34.501,
+            "timestamp_seconds": 30.0,
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_004_keyframe.jpg",
+            "description": "A group of four people are seated around a table in a formal setting, engaged in a discussion or meeting.",
+            "visible_entities": [
+                "four people",
+                "table with papers",
+                "chairs",
+                "blue curtains",
+                "painting on the wall"
+            ],
+            "activities": [
+                "seated",
+                "discussing",
+                "looking at papers"
+            ],
+            "environment": "A formal room with blue curtains, a painting on the wall, and a patterned carpet.",
+            "inference_time_seconds": 4.808
+        },
+        {
+            "scene_id": 5,
+            "start_seconds": 34.501,
+            "end_seconds": 44.411,
+            "timestamp_seconds": 39.0,
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_005_keyframe.jpg",
+            "description": "A person is sitting at a desk in a classroom, writing on a piece of paper with a pencil.",
+            "visible_entities": [
+                "person",
+                "desk",
+                "pencil",
+                "paper",
+                "classroom"
+            ],
+            "activities": [
+                "writing"
+            ],
+            "environment": "A classroom with rows of chairs and a whiteboard in the background.",
+            "inference_time_seconds": 3.794
+        },
+        {
+            "scene_id": 6,
+            "start_seconds": 44.411,
+            "end_seconds": 49.316,
+            "timestamp_seconds": 47.0,
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_006_keyframe.jpg",
+            "description": "A group of people are seated around a table in a formal setting, possibly a meeting or interview.",
+            "visible_entities": [
+                "people",
+                "table",
+                "documents",
+                "background"
+            ],
+            "activities": [
+                "seated",
+                "looking at documents",
+                "hand gestures"
+            ],
+            "environment": "A formal room with blue walls, a framed picture, and curtains. The setting suggests a professional or official environment.",
+            "inference_time_seconds": 4.194
+        },
+        {
+            "scene_id": 7,
+            "start_seconds": 49.316,
+            "end_seconds": 58.292,
+            "timestamp_seconds": 54.0,
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_007_keyframe.jpg",
+            "description": "A woman is sitting at a desk in a classroom setting, looking at the camera.",
+            "visible_entities": [
+                "woman with glasses",
+                "purple shirt",
+                "desk",
+                "classroom setting"
+            ],
+            "activities": [
+                "looking at the camera"
+            ],
+            "environment": "A classroom with a blue wall, a whiteboard, and a radiator.",
+            "inference_time_seconds": 3.879
+        },
+        {
+            "scene_id": 8,
+            "start_seconds": 58.292,
+            "end_seconds": 60.093,
+            "timestamp_seconds": 59.0,
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_008_keyframe.jpg",
+            "description": "Five people are seated around a table in a formal setting, engaged in a discussion or meeting.",
+            "visible_entities": [
+                "five people",
+                "table",
+                "chairs",
+                "papers",
+                "documents"
+            ],
+            "activities": [
+                "seated",
+                "discussing",
+                "looking at papers"
+            ],
+            "environment": "A formal room with blue walls, a staircase, and a portrait hanging on the wall.",
+            "inference_time_seconds": 4.246
+        },
+        {
+            "scene_id": 9,
+            "start_seconds": 60.093,
+            "end_seconds": 73.04,
+            "timestamp_seconds": 67.0,
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_009_keyframe.jpg",
+            "description": "A person wearing a blue and black striped sweater is sitting at a table, holding a pen and gesturing with their hands.",
+            "visible_entities": [
+                "person wearing a blue and black striped sweater",
+                "pen",
+                "table"
+            ],
+            "activities": [
+                "gesturing with hands"
+            ],
+            "environment": "A room with a blue wall and a door with a gold handle.",
+            "inference_time_seconds": 4.063
+        },
+        {
+            "scene_id": 10,
+            "start_seconds": 73.04,
+            "end_seconds": 77.644,
+            "timestamp_seconds": 75.0,
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_010_keyframe.jpg",
+            "description": "A man in a white shirt and tie is seated at a desk, looking to his left.",
+            "visible_entities": [
+                "man in a white shirt and tie",
+                "desk",
+                "flag"
+            ],
+            "activities": [
+                "seated",
+                "looking to the left"
+            ],
+            "environment": "A formal setting with a fireplace, a flag, and a white wall.",
+            "inference_time_seconds": 3.985
+        },
+        {
+            "scene_id": 11,
+            "start_seconds": 77.644,
+            "end_seconds": 80.681,
+            "timestamp_seconds": 79.0,
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_011_keyframe.jpg",
+            "description": "A group of people are seated around a table in a formal setting, possibly a meeting or interview.",
+            "visible_entities": [
+                "people",
+                "table",
+                "papers",
+                "chairs",
+                "flag",
+                "door",
+                "window",
+                "painting",
+                "fireplace",
+                "curtains",
+                "floor",
+                "wall",
+                "ceiling",
+                "flooring",
+                "floor lamp",
+                "wall socket"
+            ],
+            "activities": [
+                "seated",
+                "looking",
+                "holding papers",
+                "talking",
+                "listening",
+                "writing",
+                "holding pen",
+                "holding pencil"
+            ],
+            "environment": "A formal room with a fireplace, flag, door, window, painting, and curtains. The setting appears to be indoors, possibly in an office or conference room.",
+            "inference_time_seconds": 6.989
+        },
+        {
+            "scene_id": 12,
+            "start_seconds": 80.681,
+            "end_seconds": 90.891,
+            "timestamp_seconds": 86.0,
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_012_keyframe.jpg",
+            "description": "A man is sitting in an office setting, wearing a dark sweater over a white shirt.",
+            "visible_entities": [
+                "man",
+                "office setting",
+                "dark sweater",
+                "white shirt",
+                "chair",
+                "door",
+                "curtains"
+            ],
+            "activities": [
+                "sitting",
+                "looking to the side"
+            ],
+            "environment": "The background includes a door with a gold handle, a chair, and curtains with a blue and yellow pattern.",
+            "inference_time_seconds": 4.463
+        },
+        {
+            "scene_id": 13,
+            "start_seconds": 90.891,
+            "end_seconds": 98.398,
+            "timestamp_seconds": 95.0,
+            "keyframe_path": "/home/srinivasa/semantic-codec/data/keyframes/scene_013_keyframe.jpg",
+            "description": "A group of four people are seated around a table in a formal setting, engaged in a discussion.",
+            "visible_entities": [
+                "four people",
+                "table",
+                "papers",
+                "curtains",
+                "painting",
+                "chair",
+                "radiator"
+            ],
+            "activities": [
+                "discussing",
+                "looking at papers"
+            ],
+            "environment": "A formal room with blue curtains, a painting on the wall, and a radiator.",
+            "inference_time_seconds": 4.843
+        }
+    ]
+}

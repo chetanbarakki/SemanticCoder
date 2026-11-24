@@ -1,0 +1,45 @@
+# semantic-codec configuration
+# All path values are relative to the project root (where this file lives).
+# scripts/run_pipeline.py and any future CLI wrappers read this file.
+# Individual modules still accept CLI flags that override these defaults.
+
+paths:
+  # input_dir:   data/input
+  input_dir:   data/input_real
+  audio_dir:   data/audio
+  frames_dir:  data/frames
+  keyframes_dir: data/keyframes
+  output_dir:  data/output
+  results_dir: results
+
+ingestion:
+  # Frames sampled per second of video for downstream analysis.
+  sample_fps: 1.0
+
+scene_detection:
+  # ContentDetector threshold — lower catches more cuts, higher ignores subtle ones.
+  threshold: 27.0
+  # Minimum scene length in frames (at source video fps).
+  min_scene_len: 15
+
+object_detection:
+  model: yolo11n.pt
+  confidence: 0.25
+  # GPU index as string ("0") or "cpu".
+  device: "0"
+
+transcription:
+  model: small.en
+  # "cuda" or "cpu"
+  device: cuda
+  # "float16" on GPU, "int8" on CPU.
+  compute_type: float16
+
+scene_understanding:
+  model: qwen2.5vl:3b
+  # Keep the model resident in GPU memory between scenes.
+  keep_alive: 10m
+
+decode:
+  # Output frame rate for the reconstructed video.
+  fps: 25

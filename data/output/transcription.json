@@ -1,0 +1,2317 @@
+{
+    "source_audio": "/home/srinivasa/semantic-codec/data/audio/test_video.wav",
+    "model": "small.en",
+    "language": "en",
+    "language_probability": 1,
+    "duration_seconds": 98.383,
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 4.18,
+            "text": "Hello everyone, thank you guys for coming to our weekly student success meeting",
+            "words": [
+                {
+                    "word": " Hello",
+                    "start": 0.0,
+                    "end": 0.52,
+                    "probability": 0.6226
+                },
+                {
+                    "word": " everyone,",
+                    "start": 0.52,
+                    "end": 0.9,
+                    "probability": 0.7603
+                },
+                {
+                    "word": " thank",
+                    "start": 0.94,
+                    "end": 1.24,
+                    "probability": 0.9873
+                },
+                {
+                    "word": " you",
+                    "start": 1.24,
+                    "end": 1.38,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " guys",
+                    "start": 1.38,
+                    "end": 1.58,
+                    "probability": 0.9888
+                },
+                {
+                    "word": " for",
+                    "start": 1.58,
+                    "end": 1.84,
+                    "probability": 0.9966
+                },
+                {
+                    "word": " coming",
+                    "start": 1.84,
+                    "end": 2.14,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " to",
+                    "start": 2.14,
+                    "end": 2.38,
+                    "probability": 0.9946
+                },
+                {
+                    "word": " our",
+                    "start": 2.38,
+                    "end": 2.54,
+                    "probability": 0.998
+                },
+                {
+                    "word": " weekly",
+                    "start": 2.54,
+                    "end": 2.8,
+                    "probability": 0.9463
+                },
+                {
+                    "word": " student",
+                    "start": 2.8,
+                    "end": 3.18,
+                    "probability": 0.6108
+                },
+                {
+                    "word": " success",
+                    "start": 3.18,
+                    "end": 3.68,
+                    "probability": 0.9839
+                },
+                {
+                    "word": " meeting",
+                    "start": 3.68,
+                    "end": 4.18,
+                    "probability": 0.9927
+                }
+            ]
+        },
+        {
+            "start": 4.82,
+            "end": 11.48,
+            "text": "And let's just get started. So I have our list of chronically absent students here, and I've been noticing a troubling trend",
+            "words": [
+                {
+                    "word": " And",
+                    "start": 4.82,
+                    "end": 5.34,
+                    "probability": 0.3364
+                },
+                {
+                    "word": " let's",
+                    "start": 5.34,
+                    "end": 5.58,
+                    "probability": 0.9973
+                },
+                {
+                    "word": " just",
+                    "start": 5.58,
+                    "end": 5.72,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " get",
+                    "start": 5.72,
+                    "end": 5.88,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " started.",
+                    "start": 5.88,
+                    "end": 6.28,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " So",
+                    "start": 6.3,
+                    "end": 6.76,
+                    "probability": 0.9761
+                },
+                {
+                    "word": " I",
+                    "start": 6.76,
+                    "end": 6.88,
+                    "probability": 0.9707
+                },
+                {
+                    "word": " have",
+                    "start": 6.88,
+                    "end": 7.04,
+                    "probability": 1.0
+                },
+                {
+                    "word": " our",
+                    "start": 7.04,
+                    "end": 7.18,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " list",
+                    "start": 7.18,
+                    "end": 7.36,
+                    "probability": 0.9746
+                },
+                {
+                    "word": " of",
+                    "start": 7.36,
+                    "end": 7.62,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " chronically",
+                    "start": 7.62,
+                    "end": 7.94,
+                    "probability": 0.9614
+                },
+                {
+                    "word": " absent",
+                    "start": 7.94,
+                    "end": 8.24,
+                    "probability": 0.9785
+                },
+                {
+                    "word": " students",
+                    "start": 8.24,
+                    "end": 8.76,
+                    "probability": 0.9966
+                },
+                {
+                    "word": " here,",
+                    "start": 8.76,
+                    "end": 9.08,
+                    "probability": 0.999
+                },
+                {
+                    "word": " and",
+                    "start": 9.08,
+                    "end": 9.7,
+                    "probability": 0.9966
+                },
+                {
+                    "word": " I've",
+                    "start": 9.7,
+                    "end": 9.98,
+                    "probability": 0.9983
+                },
+                {
+                    "word": " been",
+                    "start": 9.98,
+                    "end": 10.06,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " noticing",
+                    "start": 10.06,
+                    "end": 10.36,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " a",
+                    "start": 10.36,
+                    "end": 10.56,
+                    "probability": 0.998
+                },
+                {
+                    "word": " troubling",
+                    "start": 10.56,
+                    "end": 11.0,
+                    "probability": 0.999
+                },
+                {
+                    "word": " trend",
+                    "start": 11.0,
+                    "end": 11.48,
+                    "probability": 0.9961
+                }
+            ]
+        },
+        {
+            "start": 12.14,
+            "end": 16.58,
+            "text": "A lot of students are skipping on Fridays. Does anyone have any idea what's going on?",
+            "words": [
+                {
+                    "word": " A",
+                    "start": 12.14,
+                    "end": 12.66,
+                    "probability": 0.624
+                },
+                {
+                    "word": " lot",
+                    "start": 12.66,
+                    "end": 12.82,
+                    "probability": 0.998
+                },
+                {
+                    "word": " of",
+                    "start": 12.82,
+                    "end": 12.94,
+                    "probability": 1.0
+                },
+                {
+                    "word": " students",
+                    "start": 12.94,
+                    "end": 13.16,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " are",
+                    "start": 13.16,
+                    "end": 13.38,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " skipping",
+                    "start": 13.38,
+                    "end": 13.68,
+                    "probability": 0.999
+                },
+                {
+                    "word": " on",
+                    "start": 13.68,
+                    "end": 13.94,
+                    "probability": 0.999
+                },
+                {
+                    "word": " Fridays.",
+                    "start": 13.94,
+                    "end": 14.4,
+                    "probability": 0.9302
+                },
+                {
+                    "word": " Does",
+                    "start": 14.44,
+                    "end": 14.84,
+                    "probability": 0.9951
+                },
+                {
+                    "word": " anyone",
+                    "start": 14.84,
+                    "end": 15.1,
+                    "probability": 0.998
+                },
+                {
+                    "word": " have",
+                    "start": 15.1,
+                    "end": 15.4,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " any",
+                    "start": 15.4,
+                    "end": 15.58,
+                    "probability": 0.998
+                },
+                {
+                    "word": " idea",
+                    "start": 15.58,
+                    "end": 15.84,
+                    "probability": 0.999
+                },
+                {
+                    "word": " what's",
+                    "start": 15.84,
+                    "end": 16.06,
+                    "probability": 0.9326
+                },
+                {
+                    "word": " going",
+                    "start": 16.06,
+                    "end": 16.22,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " on?",
+                    "start": 16.22,
+                    "end": 16.58,
+                    "probability": 0.998
+                }
+            ]
+        },
+        {
+            "start": 17.06,
+            "end": 21.06,
+            "text": "I've heard some of my mentees talking about how it's really hard to get out of bed on Fridays",
+            "words": [
+                {
+                    "word": " I've",
+                    "start": 17.06,
+                    "end": 17.48,
+                    "probability": 0.9939
+                },
+                {
+                    "word": " heard",
+                    "start": 17.48,
+                    "end": 17.58,
+                    "probability": 0.999
+                },
+                {
+                    "word": " some",
+                    "start": 17.58,
+                    "end": 17.74,
+                    "probability": 0.9971
+                },
+                {
+                    "word": " of",
+                    "start": 17.74,
+                    "end": 17.86,
+                    "probability": 0.999
+                },
+                {
+                    "word": " my",
+                    "start": 17.86,
+                    "end": 17.96,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " mentees",
+                    "start": 17.96,
+                    "end": 18.3,
+                    "probability": 0.9897
+                },
+                {
+                    "word": " talking",
+                    "start": 18.3,
+                    "end": 18.6,
+                    "probability": 0.9927
+                },
+                {
+                    "word": " about",
+                    "start": 18.6,
+                    "end": 18.92,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " how",
+                    "start": 18.92,
+                    "end": 19.18,
+                    "probability": 0.9946
+                },
+                {
+                    "word": " it's",
+                    "start": 19.18,
+                    "end": 19.46,
+                    "probability": 0.9924
+                },
+                {
+                    "word": " really",
+                    "start": 19.46,
+                    "end": 19.68,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " hard",
+                    "start": 19.68,
+                    "end": 19.94,
+                    "probability": 0.999
+                },
+                {
+                    "word": " to",
+                    "start": 19.94,
+                    "end": 20.08,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " get",
+                    "start": 20.08,
+                    "end": 20.18,
+                    "probability": 0.999
+                },
+                {
+                    "word": " out",
+                    "start": 20.18,
+                    "end": 20.3,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " of",
+                    "start": 20.3,
+                    "end": 20.4,
+                    "probability": 0.999
+                },
+                {
+                    "word": " bed",
+                    "start": 20.4,
+                    "end": 20.54,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " on",
+                    "start": 20.54,
+                    "end": 20.72,
+                    "probability": 0.9937
+                },
+                {
+                    "word": " Fridays",
+                    "start": 20.72,
+                    "end": 21.06,
+                    "probability": 0.9731
+                }
+            ]
+        },
+        {
+            "start": 21.06,
+            "end": 27.36,
+            "text": "It might be good if we did something like a pancake breakfast to encourage them to come. I think that's a great idea",
+            "words": [
+                {
+                    "word": " It",
+                    "start": 21.06,
+                    "end": 21.88,
+                    "probability": 0.8311
+                },
+                {
+                    "word": " might",
+                    "start": 21.88,
+                    "end": 22.0,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " be",
+                    "start": 22.0,
+                    "end": 22.16,
+                    "probability": 1.0
+                },
+                {
+                    "word": " good",
+                    "start": 22.16,
+                    "end": 22.3,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " if",
+                    "start": 22.3,
+                    "end": 22.4,
+                    "probability": 0.9673
+                },
+                {
+                    "word": " we",
+                    "start": 22.4,
+                    "end": 22.5,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " did",
+                    "start": 22.5,
+                    "end": 22.64,
+                    "probability": 0.999
+                },
+                {
+                    "word": " something",
+                    "start": 22.64,
+                    "end": 22.92,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " like",
+                    "start": 22.92,
+                    "end": 23.26,
+                    "probability": 0.998
+                },
+                {
+                    "word": " a",
+                    "start": 23.26,
+                    "end": 23.48,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " pancake",
+                    "start": 23.48,
+                    "end": 23.86,
+                    "probability": 0.9958
+                },
+                {
+                    "word": " breakfast",
+                    "start": 23.86,
+                    "end": 24.22,
+                    "probability": 0.9951
+                },
+                {
+                    "word": " to",
+                    "start": 24.22,
+                    "end": 24.58,
+                    "probability": 0.9961
+                },
+                {
+                    "word": " encourage",
+                    "start": 24.58,
+                    "end": 24.86,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " them",
+                    "start": 24.86,
+                    "end": 25.08,
+                    "probability": 1.0
+                },
+                {
+                    "word": " to",
+                    "start": 25.08,
+                    "end": 25.22,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " come.",
+                    "start": 25.22,
+                    "end": 25.6,
+                    "probability": 0.999
+                },
+                {
+                    "word": " I",
+                    "start": 25.88,
+                    "end": 26.4,
+                    "probability": 0.9849
+                },
+                {
+                    "word": " think",
+                    "start": 26.4,
+                    "end": 26.54,
+                    "probability": 0.9312
+                },
+                {
+                    "word": " that's",
+                    "start": 26.54,
+                    "end": 26.8,
+                    "probability": 0.9968
+                },
+                {
+                    "word": " a",
+                    "start": 26.8,
+                    "end": 26.88,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " great",
+                    "start": 26.88,
+                    "end": 27.02,
+                    "probability": 0.998
+                },
+                {
+                    "word": " idea",
+                    "start": 27.02,
+                    "end": 27.36,
+                    "probability": 0.9946
+                }
+            ]
+        },
+        {
+            "start": 27.36,
+            "end": 28.86,
+            "text": "Let's try that next week",
+            "words": [
+                {
+                    "word": " Let's",
+                    "start": 27.36,
+                    "end": 28.02,
+                    "probability": 0.7026
+                },
+                {
+                    "word": " try",
+                    "start": 28.02,
+                    "end": 28.2,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " that",
+                    "start": 28.2,
+                    "end": 28.36,
+                    "probability": 0.999
+                },
+                {
+                    "word": " next",
+                    "start": 28.36,
+                    "end": 28.58,
+                    "probability": 0.999
+                },
+                {
+                    "word": " week",
+                    "start": 28.58,
+                    "end": 28.86,
+                    "probability": 0.9985
+                }
+            ]
+        },
+        {
+            "start": 29.92,
+            "end": 34.2,
+            "text": "It might also be because a lot of students have been getting sick now that it's getting colder outside",
+            "words": [
+                {
+                    "word": " It",
+                    "start": 29.92,
+                    "end": 30.36,
+                    "probability": 0.2839
+                },
+                {
+                    "word": " might",
+                    "start": 30.36,
+                    "end": 30.52,
+                    "probability": 0.9209
+                },
+                {
+                    "word": " also",
+                    "start": 30.52,
+                    "end": 30.74,
+                    "probability": 0.9517
+                },
+                {
+                    "word": " be",
+                    "start": 30.74,
+                    "end": 30.94,
+                    "probability": 0.9751
+                },
+                {
+                    "word": " because",
+                    "start": 30.94,
+                    "end": 31.2,
+                    "probability": 0.9775
+                },
+                {
+                    "word": " a",
+                    "start": 31.2,
+                    "end": 31.34,
+                    "probability": 0.9722
+                },
+                {
+                    "word": " lot",
+                    "start": 31.34,
+                    "end": 31.48,
+                    "probability": 0.9946
+                },
+                {
+                    "word": " of",
+                    "start": 31.48,
+                    "end": 31.62,
+                    "probability": 0.9966
+                },
+                {
+                    "word": " students",
+                    "start": 31.62,
+                    "end": 31.84,
+                    "probability": 0.9785
+                },
+                {
+                    "word": " have",
+                    "start": 31.84,
+                    "end": 32.0,
+                    "probability": 0.9858
+                },
+                {
+                    "word": " been",
+                    "start": 32.0,
+                    "end": 32.14,
+                    "probability": 0.9946
+                },
+                {
+                    "word": " getting",
+                    "start": 32.14,
+                    "end": 32.32,
+                    "probability": 0.9727
+                },
+                {
+                    "word": " sick",
+                    "start": 32.32,
+                    "end": 32.68,
+                    "probability": 0.9971
+                },
+                {
+                    "word": " now",
+                    "start": 32.68,
+                    "end": 32.9,
+                    "probability": 0.9243
+                },
+                {
+                    "word": " that",
+                    "start": 32.9,
+                    "end": 33.02,
+                    "probability": 0.9746
+                },
+                {
+                    "word": " it's",
+                    "start": 33.02,
+                    "end": 33.22,
+                    "probability": 0.9573
+                },
+                {
+                    "word": " getting",
+                    "start": 33.22,
+                    "end": 33.42,
+                    "probability": 0.9932
+                },
+                {
+                    "word": " colder",
+                    "start": 33.42,
+                    "end": 33.76,
+                    "probability": 0.9917
+                },
+                {
+                    "word": " outside",
+                    "start": 33.76,
+                    "end": 34.2,
+                    "probability": 0.9966
+                }
+            ]
+        },
+        {
+            "start": 34.2,
+            "end": 38.0,
+            "text": "I've had a number of students come by my office with symptoms like sniffling and coughing",
+            "words": [
+                {
+                    "word": " I've",
+                    "start": 34.2,
+                    "end": 34.76,
+                    "probability": 0.5794
+                },
+                {
+                    "word": " had",
+                    "start": 34.76,
+                    "end": 34.88,
+                    "probability": 0.9966
+                },
+                {
+                    "word": " a",
+                    "start": 34.88,
+                    "end": 35.02,
+                    "probability": 0.9907
+                },
+                {
+                    "word": " number",
+                    "start": 35.02,
+                    "end": 35.14,
+                    "probability": 0.9946
+                },
+                {
+                    "word": " of",
+                    "start": 35.14,
+                    "end": 35.36,
+                    "probability": 0.8716
+                },
+                {
+                    "word": " students",
+                    "start": 35.36,
+                    "end": 35.46,
+                    "probability": 0.9917
+                },
+                {
+                    "word": " come",
+                    "start": 35.46,
+                    "end": 35.7,
+                    "probability": 0.9883
+                },
+                {
+                    "word": " by",
+                    "start": 35.7,
+                    "end": 35.86,
+                    "probability": 0.9917
+                },
+                {
+                    "word": " my",
+                    "start": 35.86,
+                    "end": 36.0,
+                    "probability": 0.9932
+                },
+                {
+                    "word": " office",
+                    "start": 36.0,
+                    "end": 36.26,
+                    "probability": 0.9966
+                },
+                {
+                    "word": " with",
+                    "start": 36.26,
+                    "end": 36.48,
+                    "probability": 0.9844
+                },
+                {
+                    "word": " symptoms",
+                    "start": 36.48,
+                    "end": 36.84,
+                    "probability": 0.9907
+                },
+                {
+                    "word": " like",
+                    "start": 36.84,
+                    "end": 37.12,
+                    "probability": 0.9541
+                },
+                {
+                    "word": " sniffling",
+                    "start": 37.12,
+                    "end": 37.56,
+                    "probability": 0.9922
+                },
+                {
+                    "word": " and",
+                    "start": 37.56,
+                    "end": 37.7,
+                    "probability": 0.9868
+                },
+                {
+                    "word": " coughing",
+                    "start": 37.7,
+                    "end": 38.0,
+                    "probability": 0.9976
+                }
+            ]
+        },
+        {
+            "start": 38.0,
+            "end": 42.3,
+            "text": "We should put up posters with tips for not getting sick since it's almost flu season like you know",
+            "words": [
+                {
+                    "word": " We",
+                    "start": 38.0,
+                    "end": 38.56,
+                    "probability": 0.6748
+                },
+                {
+                    "word": " should",
+                    "start": 38.56,
+                    "end": 38.7,
+                    "probability": 0.9961
+                },
+                {
+                    "word": " put",
+                    "start": 38.7,
+                    "end": 38.84,
+                    "probability": 0.9961
+                },
+                {
+                    "word": " up",
+                    "start": 38.84,
+                    "end": 38.98,
+                    "probability": 0.998
+                },
+                {
+                    "word": " posters",
+                    "start": 38.98,
+                    "end": 39.28,
+                    "probability": 0.9951
+                },
+                {
+                    "word": " with",
+                    "start": 39.28,
+                    "end": 39.56,
+                    "probability": 0.98
+                },
+                {
+                    "word": " tips",
+                    "start": 39.56,
+                    "end": 39.8,
+                    "probability": 0.9966
+                },
+                {
+                    "word": " for",
+                    "start": 39.8,
+                    "end": 40.0,
+                    "probability": 0.9883
+                },
+                {
+                    "word": " not",
+                    "start": 40.0,
+                    "end": 40.18,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " getting",
+                    "start": 40.18,
+                    "end": 40.36,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " sick",
+                    "start": 40.36,
+                    "end": 40.66,
+                    "probability": 0.9976
+                },
+                {
+                    "word": " since",
+                    "start": 40.66,
+                    "end": 40.82,
+                    "probability": 0.8833
+                },
+                {
+                    "word": " it's",
+                    "start": 40.82,
+                    "end": 41.02,
+                    "probability": 0.9854
+                },
+                {
+                    "word": " almost",
+                    "start": 41.02,
+                    "end": 41.2,
+                    "probability": 0.9976
+                },
+                {
+                    "word": " flu",
+                    "start": 41.2,
+                    "end": 41.46,
+                    "probability": 0.9937
+                },
+                {
+                    "word": " season",
+                    "start": 41.46,
+                    "end": 41.76,
+                    "probability": 0.999
+                },
+                {
+                    "word": " like",
+                    "start": 41.76,
+                    "end": 42.04,
+                    "probability": 0.5776
+                },
+                {
+                    "word": " you",
+                    "start": 42.04,
+                    "end": 42.16,
+                    "probability": 0.6357
+                },
+                {
+                    "word": " know",
+                    "start": 42.16,
+                    "end": 42.3,
+                    "probability": 0.9971
+                }
+            ]
+        },
+        {
+            "start": 42.3,
+            "end": 44.42,
+            "text": "Wash your hands after the bathroom stuff like that",
+            "words": [
+                {
+                    "word": " Wash",
+                    "start": 42.3,
+                    "end": 42.48,
+                    "probability": 0.3186
+                },
+                {
+                    "word": " your",
+                    "start": 42.48,
+                    "end": 42.64,
+                    "probability": 0.979
+                },
+                {
+                    "word": " hands",
+                    "start": 42.64,
+                    "end": 42.8,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " after",
+                    "start": 42.8,
+                    "end": 43.04,
+                    "probability": 0.9971
+                },
+                {
+                    "word": " the",
+                    "start": 43.04,
+                    "end": 43.2,
+                    "probability": 0.999
+                },
+                {
+                    "word": " bathroom",
+                    "start": 43.2,
+                    "end": 43.58,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " stuff",
+                    "start": 43.58,
+                    "end": 43.94,
+                    "probability": 0.8804
+                },
+                {
+                    "word": " like",
+                    "start": 43.94,
+                    "end": 44.12,
+                    "probability": 0.9971
+                },
+                {
+                    "word": " that",
+                    "start": 44.12,
+                    "end": 44.42,
+                    "probability": 0.999
+                }
+            ]
+        },
+        {
+            "start": 44.42,
+            "end": 49.06,
+            "text": "I think that's a good idea and it'll be a good reminder for the teachers as well",
+            "words": [
+                {
+                    "word": " I",
+                    "start": 44.42,
+                    "end": 44.96,
+                    "probability": 0.6753
+                },
+                {
+                    "word": " think",
+                    "start": 44.96,
+                    "end": 45.08,
+                    "probability": 0.9966
+                },
+                {
+                    "word": " that's",
+                    "start": 45.08,
+                    "end": 45.34,
+                    "probability": 0.9993
+                },
+                {
+                    "word": " a",
+                    "start": 45.34,
+                    "end": 45.42,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " good",
+                    "start": 45.42,
+                    "end": 45.54,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " idea",
+                    "start": 45.54,
+                    "end": 45.88,
+                    "probability": 0.999
+                },
+                {
+                    "word": " and",
+                    "start": 45.88,
+                    "end": 46.14,
+                    "probability": 0.7241
+                },
+                {
+                    "word": " it'll",
+                    "start": 46.14,
+                    "end": 46.34,
+                    "probability": 0.9866
+                },
+                {
+                    "word": " be",
+                    "start": 46.34,
+                    "end": 46.46,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " a",
+                    "start": 46.46,
+                    "end": 46.56,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " good",
+                    "start": 46.56,
+                    "end": 46.72,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " reminder",
+                    "start": 46.72,
+                    "end": 47.04,
+                    "probability": 0.999
+                },
+                {
+                    "word": " for",
+                    "start": 47.04,
+                    "end": 47.36,
+                    "probability": 0.9976
+                },
+                {
+                    "word": " the",
+                    "start": 47.36,
+                    "end": 47.52,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " teachers",
+                    "start": 47.52,
+                    "end": 47.92,
+                    "probability": 0.9946
+                },
+                {
+                    "word": " as",
+                    "start": 47.92,
+                    "end": 48.74,
+                    "probability": 0.9419
+                },
+                {
+                    "word": " well",
+                    "start": 48.74,
+                    "end": 49.06,
+                    "probability": 0.8516
+                }
+            ]
+        },
+        {
+            "start": 49.06,
+            "end": 50.98,
+            "text": "So one other thing I wanted to talk about",
+            "words": [
+                {
+                    "word": " So",
+                    "start": 49.06,
+                    "end": 49.58,
+                    "probability": 0.6392
+                },
+                {
+                    "word": " one",
+                    "start": 49.58,
+                    "end": 49.7,
+                    "probability": 0.9937
+                },
+                {
+                    "word": " other",
+                    "start": 49.7,
+                    "end": 49.86,
+                    "probability": 0.8794
+                },
+                {
+                    "word": " thing",
+                    "start": 49.86,
+                    "end": 50.06,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " I",
+                    "start": 50.06,
+                    "end": 50.18,
+                    "probability": 0.9609
+                },
+                {
+                    "word": " wanted",
+                    "start": 50.18,
+                    "end": 50.32,
+                    "probability": 0.5693
+                },
+                {
+                    "word": " to",
+                    "start": 50.32,
+                    "end": 50.46,
+                    "probability": 0.999
+                },
+                {
+                    "word": " talk",
+                    "start": 50.46,
+                    "end": 50.64,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " about",
+                    "start": 50.64,
+                    "end": 50.98,
+                    "probability": 0.9995
+                }
+            ]
+        },
+        {
+            "start": 51.5,
+            "end": 57.32,
+            "text": "There's a student I've noticed here John Smith. He's missed seven days already and it's only November",
+            "words": [
+                {
+                    "word": " There's",
+                    "start": 51.5,
+                    "end": 51.94,
+                    "probability": 0.7966
+                },
+                {
+                    "word": " a",
+                    "start": 51.94,
+                    "end": 52.06,
+                    "probability": 0.9805
+                },
+                {
+                    "word": " student",
+                    "start": 52.06,
+                    "end": 52.32,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " I've",
+                    "start": 52.32,
+                    "end": 52.56,
+                    "probability": 0.863
+                },
+                {
+                    "word": " noticed",
+                    "start": 52.56,
+                    "end": 52.82,
+                    "probability": 0.999
+                },
+                {
+                    "word": " here",
+                    "start": 52.82,
+                    "end": 53.04,
+                    "probability": 0.9956
+                },
+                {
+                    "word": " John",
+                    "start": 53.04,
+                    "end": 53.4,
+                    "probability": 0.6436
+                },
+                {
+                    "word": " Smith.",
+                    "start": 53.4,
+                    "end": 53.86,
+                    "probability": 0.9893
+                },
+                {
+                    "word": " He's",
+                    "start": 54.36,
+                    "end": 54.8,
+                    "probability": 0.9968
+                },
+                {
+                    "word": " missed",
+                    "start": 54.8,
+                    "end": 55.12,
+                    "probability": 0.999
+                },
+                {
+                    "word": " seven",
+                    "start": 55.12,
+                    "end": 55.62,
+                    "probability": 0.9556
+                },
+                {
+                    "word": " days",
+                    "start": 55.62,
+                    "end": 55.92,
+                    "probability": 0.999
+                },
+                {
+                    "word": " already",
+                    "start": 55.92,
+                    "end": 56.24,
+                    "probability": 0.998
+                },
+                {
+                    "word": " and",
+                    "start": 56.24,
+                    "end": 56.5,
+                    "probability": 0.6445
+                },
+                {
+                    "word": " it's",
+                    "start": 56.5,
+                    "end": 56.7,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " only",
+                    "start": 56.7,
+                    "end": 56.9,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " November",
+                    "start": 56.9,
+                    "end": 57.32,
+                    "probability": 0.9971
+                }
+            ]
+        },
+        {
+            "start": 57.32,
+            "end": 61.92,
+            "text": "Does anyone have an idea what's going on with him? I might be able to fill in the gaps there",
+            "words": [
+                {
+                    "word": " Does",
+                    "start": 57.32,
+                    "end": 57.86,
+                    "probability": 0.5571
+                },
+                {
+                    "word": " anyone",
+                    "start": 57.86,
+                    "end": 58.1,
+                    "probability": 0.9897
+                },
+                {
+                    "word": " have",
+                    "start": 58.1,
+                    "end": 58.38,
+                    "probability": 0.9941
+                },
+                {
+                    "word": " an",
+                    "start": 58.38,
+                    "end": 58.48,
+                    "probability": 0.9614
+                },
+                {
+                    "word": " idea",
+                    "start": 58.48,
+                    "end": 58.74,
+                    "probability": 0.9976
+                },
+                {
+                    "word": " what's",
+                    "start": 58.74,
+                    "end": 59.0,
+                    "probability": 0.8203
+                },
+                {
+                    "word": " going",
+                    "start": 59.0,
+                    "end": 59.18,
+                    "probability": 0.9976
+                },
+                {
+                    "word": " on",
+                    "start": 59.18,
+                    "end": 59.36,
+                    "probability": 0.9902
+                },
+                {
+                    "word": " with",
+                    "start": 59.36,
+                    "end": 59.54,
+                    "probability": 0.9868
+                },
+                {
+                    "word": " him?",
+                    "start": 59.54,
+                    "end": 59.7,
+                    "probability": 0.9858
+                },
+                {
+                    "word": " I",
+                    "start": 60.54,
+                    "end": 60.54,
+                    "probability": 0.6045
+                },
+                {
+                    "word": " might",
+                    "start": 60.54,
+                    "end": 60.66,
+                    "probability": 0.9834
+                },
+                {
+                    "word": " be",
+                    "start": 60.66,
+                    "end": 60.8,
+                    "probability": 0.9966
+                },
+                {
+                    "word": " able",
+                    "start": 60.8,
+                    "end": 60.92,
+                    "probability": 0.998
+                },
+                {
+                    "word": " to",
+                    "start": 60.92,
+                    "end": 61.04,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " fill",
+                    "start": 61.04,
+                    "end": 61.2,
+                    "probability": 0.9922
+                },
+                {
+                    "word": " in",
+                    "start": 61.2,
+                    "end": 61.3,
+                    "probability": 0.9863
+                },
+                {
+                    "word": " the",
+                    "start": 61.3,
+                    "end": 61.38,
+                    "probability": 0.9941
+                },
+                {
+                    "word": " gaps",
+                    "start": 61.38,
+                    "end": 61.6,
+                    "probability": 0.9971
+                },
+                {
+                    "word": " there",
+                    "start": 61.6,
+                    "end": 61.92,
+                    "probability": 0.9761
+                }
+            ]
+        },
+        {
+            "start": 61.92,
+            "end": 64.72,
+            "text": "I talked to John today, and he's really stressed out",
+            "words": [
+                {
+                    "word": " I",
+                    "start": 61.92,
+                    "end": 62.22,
+                    "probability": 0.0881
+                },
+                {
+                    "word": " talked",
+                    "start": 62.22,
+                    "end": 62.4,
+                    "probability": 0.9487
+                },
+                {
+                    "word": " to",
+                    "start": 62.4,
+                    "end": 62.56,
+                    "probability": 0.9961
+                },
+                {
+                    "word": " John",
+                    "start": 62.56,
+                    "end": 62.74,
+                    "probability": 0.9565
+                },
+                {
+                    "word": " today,",
+                    "start": 62.74,
+                    "end": 63.06,
+                    "probability": 0.9922
+                },
+                {
+                    "word": " and",
+                    "start": 63.06,
+                    "end": 63.52,
+                    "probability": 0.9971
+                },
+                {
+                    "word": " he's",
+                    "start": 63.52,
+                    "end": 63.9,
+                    "probability": 0.999
+                },
+                {
+                    "word": " really",
+                    "start": 63.9,
+                    "end": 64.14,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " stressed",
+                    "start": 64.14,
+                    "end": 64.38,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " out",
+                    "start": 64.38,
+                    "end": 64.72,
+                    "probability": 0.998
+                }
+            ]
+        },
+        {
+            "start": 64.72,
+            "end": 68.9,
+            "text": "He's been dealing with helping his parents take care of his younger siblings during the day",
+            "words": [
+                {
+                    "word": " He's",
+                    "start": 64.72,
+                    "end": 65.28,
+                    "probability": 0.8987
+                },
+                {
+                    "word": " been",
+                    "start": 65.28,
+                    "end": 65.42,
+                    "probability": 0.9976
+                },
+                {
+                    "word": " dealing",
+                    "start": 65.42,
+                    "end": 65.66,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " with",
+                    "start": 65.66,
+                    "end": 65.94,
+                    "probability": 0.999
+                },
+                {
+                    "word": " helping",
+                    "start": 65.94,
+                    "end": 66.4,
+                    "probability": 0.9868
+                },
+                {
+                    "word": " his",
+                    "start": 66.4,
+                    "end": 66.58,
+                    "probability": 0.9932
+                },
+                {
+                    "word": " parents",
+                    "start": 66.58,
+                    "end": 66.9,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " take",
+                    "start": 66.9,
+                    "end": 67.2,
+                    "probability": 0.894
+                },
+                {
+                    "word": " care",
+                    "start": 67.2,
+                    "end": 67.36,
+                    "probability": 0.999
+                },
+                {
+                    "word": " of",
+                    "start": 67.36,
+                    "end": 67.5,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " his",
+                    "start": 67.5,
+                    "end": 67.58,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " younger",
+                    "start": 67.58,
+                    "end": 67.8,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " siblings",
+                    "start": 67.8,
+                    "end": 68.18,
+                    "probability": 0.9941
+                },
+                {
+                    "word": " during",
+                    "start": 68.18,
+                    "end": 68.46,
+                    "probability": 0.9946
+                },
+                {
+                    "word": " the",
+                    "start": 68.46,
+                    "end": 68.62,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " day",
+                    "start": 68.62,
+                    "end": 68.9,
+                    "probability": 0.9995
+                }
+            ]
+        },
+        {
+            "start": 69.72,
+            "end": 73.14,
+            "text": "It might actually be a good idea if he spoke to the guidance counselor a little bit",
+            "words": [
+                {
+                    "word": " It",
+                    "start": 69.72,
+                    "end": 70.12,
+                    "probability": 0.8999
+                },
+                {
+                    "word": " might",
+                    "start": 70.12,
+                    "end": 70.26,
+                    "probability": 0.9976
+                },
+                {
+                    "word": " actually",
+                    "start": 70.26,
+                    "end": 70.56,
+                    "probability": 0.999
+                },
+                {
+                    "word": " be",
+                    "start": 70.56,
+                    "end": 70.74,
+                    "probability": 0.999
+                },
+                {
+                    "word": " a",
+                    "start": 70.74,
+                    "end": 70.82,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " good",
+                    "start": 70.82,
+                    "end": 70.94,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " idea",
+                    "start": 70.94,
+                    "end": 71.2,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " if",
+                    "start": 71.2,
+                    "end": 71.42,
+                    "probability": 0.9316
+                },
+                {
+                    "word": " he",
+                    "start": 71.42,
+                    "end": 71.52,
+                    "probability": 0.9829
+                },
+                {
+                    "word": " spoke",
+                    "start": 71.52,
+                    "end": 71.7,
+                    "probability": 0.9932
+                },
+                {
+                    "word": " to",
+                    "start": 71.7,
+                    "end": 71.84,
+                    "probability": 0.999
+                },
+                {
+                    "word": " the",
+                    "start": 71.84,
+                    "end": 71.96,
+                    "probability": 0.999
+                },
+                {
+                    "word": " guidance",
+                    "start": 71.96,
+                    "end": 72.2,
+                    "probability": 0.9897
+                },
+                {
+                    "word": " counselor",
+                    "start": 72.2,
+                    "end": 72.58,
+                    "probability": 0.9902
+                },
+                {
+                    "word": " a",
+                    "start": 72.58,
+                    "end": 72.7,
+                    "probability": 0.9922
+                },
+                {
+                    "word": " little",
+                    "start": 72.7,
+                    "end": 72.82,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " bit",
+                    "start": 72.82,
+                    "end": 73.14,
+                    "probability": 0.9976
+                }
+            ]
+        },
+        {
+            "start": 73.14,
+            "end": 77.54,
+            "text": "I could talk to John today if you want to send him to my office after you meet with him",
+            "words": [
+                {
+                    "word": " I",
+                    "start": 73.14,
+                    "end": 73.8,
+                    "probability": 0.9331
+                },
+                {
+                    "word": " could",
+                    "start": 73.8,
+                    "end": 73.94,
+                    "probability": 0.5073
+                },
+                {
+                    "word": " talk",
+                    "start": 73.94,
+                    "end": 74.14,
+                    "probability": 0.9976
+                },
+                {
+                    "word": " to",
+                    "start": 74.14,
+                    "end": 74.34,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " John",
+                    "start": 74.34,
+                    "end": 74.56,
+                    "probability": 0.9927
+                },
+                {
+                    "word": " today",
+                    "start": 74.56,
+                    "end": 74.9,
+                    "probability": 0.9941
+                },
+                {
+                    "word": " if",
+                    "start": 74.9,
+                    "end": 75.16,
+                    "probability": 0.7969
+                },
+                {
+                    "word": " you",
+                    "start": 75.16,
+                    "end": 75.28,
+                    "probability": 0.999
+                },
+                {
+                    "word": " want",
+                    "start": 75.28,
+                    "end": 75.48,
+                    "probability": 0.9932
+                },
+                {
+                    "word": " to",
+                    "start": 75.48,
+                    "end": 75.6,
+                    "probability": 0.9966
+                },
+                {
+                    "word": " send",
+                    "start": 75.6,
+                    "end": 75.76,
+                    "probability": 0.9922
+                },
+                {
+                    "word": " him",
+                    "start": 75.76,
+                    "end": 75.86,
+                    "probability": 0.9023
+                },
+                {
+                    "word": " to",
+                    "start": 75.86,
+                    "end": 75.98,
+                    "probability": 0.9951
+                },
+                {
+                    "word": " my",
+                    "start": 75.98,
+                    "end": 76.16,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " office",
+                    "start": 76.16,
+                    "end": 76.46,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " after",
+                    "start": 76.46,
+                    "end": 76.78,
+                    "probability": 0.979
+                },
+                {
+                    "word": " you",
+                    "start": 76.78,
+                    "end": 76.94,
+                    "probability": 0.9814
+                },
+                {
+                    "word": " meet",
+                    "start": 76.94,
+                    "end": 77.08,
+                    "probability": 0.9971
+                },
+                {
+                    "word": " with",
+                    "start": 77.08,
+                    "end": 77.26,
+                    "probability": 0.9917
+                },
+                {
+                    "word": " him",
+                    "start": 77.26,
+                    "end": 77.54,
+                    "probability": 0.9648
+                }
+            ]
+        },
+        {
+            "start": 77.54,
+            "end": 80.04,
+            "text": "It's a lot to deal with for a middle schooler",
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 77.54,
+                    "end": 77.98,
+                    "probability": 0.8369
+                },
+                {
+                    "word": " a",
+                    "start": 77.98,
+                    "end": 78.1,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " lot",
+                    "start": 78.1,
+                    "end": 78.26,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " to",
+                    "start": 78.26,
+                    "end": 78.42,
+                    "probability": 0.999
+                },
+                {
+                    "word": " deal",
+                    "start": 78.42,
+                    "end": 78.64,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " with",
+                    "start": 78.64,
+                    "end": 78.88,
+                    "probability": 0.998
+                },
+                {
+                    "word": " for",
+                    "start": 78.88,
+                    "end": 79.16,
+                    "probability": 0.9463
+                },
+                {
+                    "word": " a",
+                    "start": 79.16,
+                    "end": 79.28,
+                    "probability": 0.4868
+                },
+                {
+                    "word": " middle",
+                    "start": 79.28,
+                    "end": 79.48,
+                    "probability": 0.9956
+                },
+                {
+                    "word": " schooler",
+                    "start": 79.48,
+                    "end": 80.04,
+                    "probability": 0.9229
+                }
+            ]
+        },
+        {
+            "start": 80.64,
+            "end": 86.3,
+            "text": "Great. Thanks, and and I can help out with the family's child care needs. I'll look for some free or low-cost",
+            "words": [
+                {
+                    "word": " Great.",
+                    "start": 80.64,
+                    "end": 81.04,
+                    "probability": 0.9487
+                },
+                {
+                    "word": " Thanks,",
+                    "start": 81.16,
+                    "end": 81.4,
+                    "probability": 0.9971
+                },
+                {
+                    "word": " and",
+                    "start": 81.4,
+                    "end": 81.64,
+                    "probability": 0.999
+                },
+                {
+                    "word": " and",
+                    "start": 81.64,
+                    "end": 82.16,
+                    "probability": 0.9062
+                },
+                {
+                    "word": " I",
+                    "start": 82.16,
+                    "end": 82.7,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " can",
+                    "start": 82.7,
+                    "end": 82.8,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " help",
+                    "start": 82.8,
+                    "end": 82.92,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " out",
+                    "start": 82.92,
+                    "end": 83.06,
+                    "probability": 0.999
+                },
+                {
+                    "word": " with",
+                    "start": 83.06,
+                    "end": 83.18,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " the",
+                    "start": 83.18,
+                    "end": 83.3,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " family's",
+                    "start": 83.3,
+                    "end": 83.64,
+                    "probability": 0.9651
+                },
+                {
+                    "word": " child",
+                    "start": 83.64,
+                    "end": 83.82,
+                    "probability": 0.5552
+                },
+                {
+                    "word": " care",
+                    "start": 83.82,
+                    "end": 84.06,
+                    "probability": 0.9917
+                },
+                {
+                    "word": " needs.",
+                    "start": 84.06,
+                    "end": 84.42,
+                    "probability": 0.9971
+                },
+                {
+                    "word": " I'll",
+                    "start": 84.52,
+                    "end": 84.92,
+                    "probability": 0.9961
+                },
+                {
+                    "word": " look",
+                    "start": 84.92,
+                    "end": 85.02,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " for",
+                    "start": 85.02,
+                    "end": 85.18,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " some",
+                    "start": 85.18,
+                    "end": 85.36,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " free",
+                    "start": 85.36,
+                    "end": 85.64,
+                    "probability": 0.9946
+                },
+                {
+                    "word": " or",
+                    "start": 85.64,
+                    "end": 85.78,
+                    "probability": 0.9521
+                },
+                {
+                    "word": " low",
+                    "start": 85.78,
+                    "end": 85.98,
+                    "probability": 0.999
+                },
+                {
+                    "word": "-cost",
+                    "start": 85.98,
+                    "end": 86.3,
+                    "probability": 0.9031
+                }
+            ]
+        },
+        {
+            "start": 87.04,
+            "end": 93.02,
+            "text": "Resources in the community to share with John and he can share them with his family great. Well some really good ideas here today",
+            "words": [
+                {
+                    "word": " Resources",
+                    "start": 87.04,
+                    "end": 87.4,
+                    "probability": 0.0003
+                },
+                {
+                    "word": " in",
+                    "start": 87.4,
+                    "end": 87.72,
+                    "probability": 0.9824
+                },
+                {
+                    "word": " the",
+                    "start": 87.72,
+                    "end": 87.82,
+                    "probability": 0.998
+                },
+                {
+                    "word": " community",
+                    "start": 87.82,
+                    "end": 88.08,
+                    "probability": 0.979
+                },
+                {
+                    "word": " to",
+                    "start": 88.08,
+                    "end": 88.68,
+                    "probability": 0.9458
+                },
+                {
+                    "word": " share",
+                    "start": 88.68,
+                    "end": 88.86,
+                    "probability": 0.9971
+                },
+                {
+                    "word": " with",
+                    "start": 88.86,
+                    "end": 89.0,
+                    "probability": 0.9932
+                },
+                {
+                    "word": " John",
+                    "start": 89.0,
+                    "end": 89.22,
+                    "probability": 0.9536
+                },
+                {
+                    "word": " and",
+                    "start": 89.22,
+                    "end": 89.4,
+                    "probability": 0.8062
+                },
+                {
+                    "word": " he",
+                    "start": 89.4,
+                    "end": 89.5,
+                    "probability": 0.9312
+                },
+                {
+                    "word": " can",
+                    "start": 89.5,
+                    "end": 89.64,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " share",
+                    "start": 89.64,
+                    "end": 89.82,
+                    "probability": 0.9956
+                },
+                {
+                    "word": " them",
+                    "start": 89.82,
+                    "end": 90.0,
+                    "probability": 0.9922
+                },
+                {
+                    "word": " with",
+                    "start": 90.0,
+                    "end": 90.14,
+                    "probability": 0.998
+                },
+                {
+                    "word": " his",
+                    "start": 90.14,
+                    "end": 90.32,
+                    "probability": 0.9932
+                },
+                {
+                    "word": " family",
+                    "start": 90.32,
+                    "end": 90.68,
+                    "probability": 0.9951
+                },
+                {
+                    "word": " great.",
+                    "start": 90.68,
+                    "end": 91.44,
+                    "probability": 0.2625
+                },
+                {
+                    "word": " Well",
+                    "start": 91.48,
+                    "end": 91.6,
+                    "probability": 0.8892
+                },
+                {
+                    "word": " some",
+                    "start": 91.6,
+                    "end": 91.74,
+                    "probability": 0.9111
+                },
+                {
+                    "word": " really",
+                    "start": 91.74,
+                    "end": 91.96,
+                    "probability": 0.999
+                },
+                {
+                    "word": " good",
+                    "start": 91.96,
+                    "end": 92.16,
+                    "probability": 0.9966
+                },
+                {
+                    "word": " ideas",
+                    "start": 92.16,
+                    "end": 92.46,
+                    "probability": 0.9946
+                },
+                {
+                    "word": " here",
+                    "start": 92.46,
+                    "end": 92.68,
+                    "probability": 0.9966
+                },
+                {
+                    "word": " today",
+                    "start": 92.68,
+                    "end": 93.02,
+                    "probability": 0.9941
+                }
+            ]
+        },
+        {
+            "start": 93.56,
+            "end": 97.36,
+            "text": "Thanks for coming, and if no one has anything else. I think we can wrap up",
+            "words": [
+                {
+                    "word": " Thanks",
+                    "start": 93.56,
+                    "end": 93.92,
+                    "probability": 0.9121
+                },
+                {
+                    "word": " for",
+                    "start": 93.92,
+                    "end": 94.14,
+                    "probability": 0.9971
+                },
+                {
+                    "word": " coming,",
+                    "start": 94.14,
+                    "end": 94.44,
+                    "probability": 0.9985
+                },
+                {
+                    "word": " and",
+                    "start": 94.44,
+                    "end": 94.8,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " if",
+                    "start": 94.8,
+                    "end": 94.98,
+                    "probability": 0.9966
+                },
+                {
+                    "word": " no",
+                    "start": 94.98,
+                    "end": 95.26,
+                    "probability": 0.9937
+                },
+                {
+                    "word": " one",
+                    "start": 95.26,
+                    "end": 95.34,
+                    "probability": 0.9971
+                },
+                {
+                    "word": " has",
+                    "start": 95.34,
+                    "end": 95.5,
+                    "probability": 0.999
+                },
+                {
+                    "word": " anything",
+                    "start": 95.5,
+                    "end": 95.78,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " else.",
+                    "start": 95.78,
+                    "end": 96.08,
+                    "probability": 0.998
+                },
+                {
+                    "word": " I",
+                    "start": 96.08,
+                    "end": 96.26,
+                    "probability": 0.9863
+                },
+                {
+                    "word": " think",
+                    "start": 96.26,
+                    "end": 96.36,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " we",
+                    "start": 96.36,
+                    "end": 96.48,
+                    "probability": 0.9995
+                },
+                {
+                    "word": " can",
+                    "start": 96.48,
+                    "end": 96.62,
+                    "probability": 0.999
+                },
+                {
+                    "word": " wrap",
+                    "start": 96.62,
+                    "end": 96.8,
+                    "probability": 0.9961
+                },
+                {
+                    "word": " up",
+                    "start": 96.8,
+                    "end": 97.36,
+                    "probability": 0.999
+                }
+            ]
+        }
+    ]
+}

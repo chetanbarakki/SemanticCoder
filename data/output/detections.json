@@ -1,0 +1,5806 @@
+{
+    "model": "yolo11n.pt",
+    "confidence_threshold": 0.25,
+    "device": "0",
+    "total_frames_processed": 99,
+    "total_detections": 446,
+    "frames": [
+        {
+            "frame_index": 0,
+            "timestamp_seconds": 0.0,
+            "source_frame": "data/frames/test_video/frame_0000.jpg",
+            "annotated_frame": "data/output/detections/frame_0000.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8975,
+                    "bounding_box_xyxy": [
+                        80.67,
+                        63.25,
+                        391.82,
+                        473.55
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8872,
+                    "bounding_box_xyxy": [
+                        335.93,
+                        82.44,
+                        524.24,
+                        244.49
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8691,
+                    "bounding_box_xyxy": [
+                        536.24,
+                        81.56,
+                        803.35,
+                        459.91
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.5737,
+                    "bounding_box_xyxy": [
+                        177.37,
+                        261.17,
+                        698.74,
+                        468.74
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5559,
+                    "bounding_box_xyxy": [
+                        47.44,
+                        317.25,
+                        110.33,
+                        476.4
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.4566,
+                    "bounding_box_xyxy": [
+                        207.88,
+                        125.32,
+                        402.25,
+                        287.81
+                    ]
+                },
+                {
+                    "class_id": 73,
+                    "label": "book",
+                    "confidence": 0.3901,
+                    "bounding_box_xyxy": [
+                        470.47,
+                        315.53,
+                        578.73,
+                        346.36
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.2715,
+                    "bounding_box_xyxy": [
+                        669.78,
+                        344.23,
+                        839.62,
+                        477.72
+                    ]
+                }
+            ],
+            "object_count": 8
+        },
+        {
+            "frame_index": 1,
+            "timestamp_seconds": 1.0,
+            "source_frame": "data/frames/test_video/frame_0001.jpg",
+            "annotated_frame": "data/output/detections/frame_0001.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8955,
+                    "bounding_box_xyxy": [
+                        80.08,
+                        62.11,
+                        398.45,
+                        473.22
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8735,
+                    "bounding_box_xyxy": [
+                        536.46,
+                        81.39,
+                        802.69,
+                        462.43
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8515,
+                    "bounding_box_xyxy": [
+                        334.38,
+                        83.3,
+                        526.11,
+                        240.64
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.546,
+                    "bounding_box_xyxy": [
+                        47.65,
+                        317.53,
+                        110.67,
+                        476.22
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.4456,
+                    "bounding_box_xyxy": [
+                        176.63,
+                        251.05,
+                        698.78,
+                        467.3
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.4242,
+                    "bounding_box_xyxy": [
+                        210.83,
+                        124.39,
+                        406.08,
+                        278.59
+                    ]
+                },
+                {
+                    "class_id": 73,
+                    "label": "book",
+                    "confidence": 0.3572,
+                    "bounding_box_xyxy": [
+                        470.06,
+                        315.59,
+                        578.88,
+                        346.43
+                    ]
+                }
+            ],
+            "object_count": 7
+        },
+        {
+            "frame_index": 2,
+            "timestamp_seconds": 2.0,
+            "source_frame": "data/frames/test_video/frame_0002.jpg",
+            "annotated_frame": "data/output/detections/frame_0002.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.89,
+                    "bounding_box_xyxy": [
+                        334.84,
+                        84.03,
+                        524.57,
+                        245.98
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8656,
+                    "bounding_box_xyxy": [
+                        538.03,
+                        82.6,
+                        802.3,
+                        459.66
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8597,
+                    "bounding_box_xyxy": [
+                        80.37,
+                        63.17,
+                        409.88,
+                        472.99
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.4958,
+                    "bounding_box_xyxy": [
+                        47.69,
+                        317.26,
+                        108.57,
+                        476.17
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.4429,
+                    "bounding_box_xyxy": [
+                        176.9,
+                        267.12,
+                        698.33,
+                        468.79
+                    ]
+                },
+                {
+                    "class_id": 73,
+                    "label": "book",
+                    "confidence": 0.4147,
+                    "bounding_box_xyxy": [
+                        470.21,
+                        315.56,
+                        578.04,
+                        346.13
+                    ]
+                }
+            ],
+            "object_count": 6
+        },
+        {
+            "frame_index": 3,
+            "timestamp_seconds": 3.0,
+            "source_frame": "data/frames/test_video/frame_0003.jpg",
+            "annotated_frame": "data/output/detections/frame_0003.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8832,
+                    "bounding_box_xyxy": [
+                        336.18,
+                        81.01,
+                        510.99,
+                        249.75
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8806,
+                    "bounding_box_xyxy": [
+                        80.49,
+                        64.36,
+                        398.1,
+                        473.88
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8631,
+                    "bounding_box_xyxy": [
+                        538.4,
+                        82.8,
+                        802.52,
+                        459.13
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.4553,
+                    "bounding_box_xyxy": [
+                        47.66,
+                        316.17,
+                        108.44,
+                        476.14
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.4335,
+                    "bounding_box_xyxy": [
+                        216.18,
+                        125.9,
+                        408.25,
+                        279.81
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.3851,
+                    "bounding_box_xyxy": [
+                        177.82,
+                        272.97,
+                        697.98,
+                        466.66
+                    ]
+                },
+                {
+                    "class_id": 73,
+                    "label": "book",
+                    "confidence": 0.3802,
+                    "bounding_box_xyxy": [
+                        470.17,
+                        315.33,
+                        577.81,
+                        346.12
+                    ]
+                }
+            ],
+            "object_count": 7
+        },
+        {
+            "frame_index": 4,
+            "timestamp_seconds": 4.0,
+            "source_frame": "data/frames/test_video/frame_0004.jpg",
+            "annotated_frame": "data/output/detections/frame_0004.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8796,
+                    "bounding_box_xyxy": [
+                        343.45,
+                        81.2,
+                        515.7,
+                        250.41
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8752,
+                    "bounding_box_xyxy": [
+                        82.12,
+                        65.15,
+                        394.69,
+                        473.93
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8648,
+                    "bounding_box_xyxy": [
+                        537.82,
+                        83.19,
+                        802.85,
+                        456.77
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5258,
+                    "bounding_box_xyxy": [
+                        47.6,
+                        314.55,
+                        108.73,
+                        476.42
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.4401,
+                    "bounding_box_xyxy": [
+                        178.41,
+                        244.57,
+                        697.92,
+                        469.44
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.4374,
+                    "bounding_box_xyxy": [
+                        219.46,
+                        124.32,
+                        407.65,
+                        276.05
+                    ]
+                },
+                {
+                    "class_id": 73,
+                    "label": "book",
+                    "confidence": 0.3695,
+                    "bounding_box_xyxy": [
+                        470.33,
+                        315.39,
+                        578.12,
+                        346.03
+                    ]
+                }
+            ],
+            "object_count": 7
+        },
+        {
+            "frame_index": 5,
+            "timestamp_seconds": 5.0,
+            "source_frame": "data/frames/test_video/frame_0005.jpg",
+            "annotated_frame": "data/output/detections/frame_0005.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.886,
+                    "bounding_box_xyxy": [
+                        82.16,
+                        66.62,
+                        392.77,
+                        473.99
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8605,
+                    "bounding_box_xyxy": [
+                        342.51,
+                        82.02,
+                        513.47,
+                        252.69
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8602,
+                    "bounding_box_xyxy": [
+                        537.99,
+                        83.28,
+                        802.4,
+                        458.13
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.5183,
+                    "bounding_box_xyxy": [
+                        177.94,
+                        259.34,
+                        697.6,
+                        468.17
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.4956,
+                    "bounding_box_xyxy": [
+                        47.74,
+                        313.99,
+                        109.58,
+                        476.44
+                    ]
+                },
+                {
+                    "class_id": 73,
+                    "label": "book",
+                    "confidence": 0.3898,
+                    "bounding_box_xyxy": [
+                        470.29,
+                        315.37,
+                        578.14,
+                        345.94
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.363,
+                    "bounding_box_xyxy": [
+                        216.27,
+                        124.18,
+                        403.69,
+                        282.05
+                    ]
+                }
+            ],
+            "object_count": 7
+        },
+        {
+            "frame_index": 6,
+            "timestamp_seconds": 6.0,
+            "source_frame": "data/frames/test_video/frame_0006.jpg",
+            "annotated_frame": "data/output/detections/frame_0006.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8834,
+                    "bounding_box_xyxy": [
+                        81.95,
+                        66.09,
+                        393.19,
+                        473.97
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8742,
+                    "bounding_box_xyxy": [
+                        538.03,
+                        82.92,
+                        802.66,
+                        461.08
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8134,
+                    "bounding_box_xyxy": [
+                        341.16,
+                        80.9,
+                        519.34,
+                        239.05
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5417,
+                    "bounding_box_xyxy": [
+                        47.69,
+                        315.33,
+                        109.52,
+                        476.47
+                    ]
+                },
+                {
+                    "class_id": 73,
+                    "label": "book",
+                    "confidence": 0.3529,
+                    "bounding_box_xyxy": [
+                        469.99,
+                        315.02,
+                        577.95,
+                        345.8
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.2963,
+                    "bounding_box_xyxy": [
+                        217.48,
+                        127.44,
+                        402.67,
+                        282.08
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.2943,
+                    "bounding_box_xyxy": [
+                        178.08,
+                        266.76,
+                        696.54,
+                        467.18
+                    ]
+                }
+            ],
+            "object_count": 7
+        },
+        {
+            "frame_index": 7,
+            "timestamp_seconds": 7.0,
+            "source_frame": "data/frames/test_video/frame_0007.jpg",
+            "annotated_frame": "data/output/detections/frame_0007.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9409,
+                    "bounding_box_xyxy": [
+                        214.75,
+                        44.56,
+                        659.43,
+                        475.24
+                    ]
+                }
+            ],
+            "object_count": 1
+        },
+        {
+            "frame_index": 8,
+            "timestamp_seconds": 8.0,
+            "source_frame": "data/frames/test_video/frame_0008.jpg",
+            "annotated_frame": "data/output/detections/frame_0008.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9457,
+                    "bounding_box_xyxy": [
+                        207.13,
+                        40.85,
+                        656.43,
+                        478.68
+                    ]
+                },
+                {
+                    "class_id": 66,
+                    "label": "keyboard",
+                    "confidence": 0.307,
+                    "bounding_box_xyxy": [
+                        616.58,
+                        276.38,
+                        853.39,
+                        327.66
+                    ]
+                }
+            ],
+            "object_count": 2
+        },
+        {
+            "frame_index": 9,
+            "timestamp_seconds": 9.0,
+            "source_frame": "data/frames/test_video/frame_0009.jpg",
+            "annotated_frame": "data/output/detections/frame_0009.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9424,
+                    "bounding_box_xyxy": [
+                        210.09,
+                        42.08,
+                        655.2,
+                        477.73
+                    ]
+                },
+                {
+                    "class_id": 66,
+                    "label": "keyboard",
+                    "confidence": 0.3517,
+                    "bounding_box_xyxy": [
+                        611.81,
+                        276.16,
+                        853.24,
+                        330.69
+                    ]
+                }
+            ],
+            "object_count": 2
+        },
+        {
+            "frame_index": 10,
+            "timestamp_seconds": 10.0,
+            "source_frame": "data/frames/test_video/frame_0010.jpg",
+            "annotated_frame": "data/output/detections/frame_0010.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.944,
+                    "bounding_box_xyxy": [
+                        206.41,
+                        43.0,
+                        658.65,
+                        476.81
+                    ]
+                }
+            ],
+            "object_count": 1
+        },
+        {
+            "frame_index": 11,
+            "timestamp_seconds": 11.0,
+            "source_frame": "data/frames/test_video/frame_0011.jpg",
+            "annotated_frame": "data/output/detections/frame_0011.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9443,
+                    "bounding_box_xyxy": [
+                        203.66,
+                        44.27,
+                        659.13,
+                        478.25
+                    ]
+                }
+            ],
+            "object_count": 1
+        },
+        {
+            "frame_index": 12,
+            "timestamp_seconds": 12.0,
+            "source_frame": "data/frames/test_video/frame_0012.jpg",
+            "annotated_frame": "data/output/detections/frame_0012.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9441,
+                    "bounding_box_xyxy": [
+                        202.92,
+                        45.11,
+                        659.42,
+                        477.11
+                    ]
+                }
+            ],
+            "object_count": 1
+        },
+        {
+            "frame_index": 13,
+            "timestamp_seconds": 13.0,
+            "source_frame": "data/frames/test_video/frame_0013.jpg",
+            "annotated_frame": "data/output/detections/frame_0013.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9383,
+                    "bounding_box_xyxy": [
+                        202.42,
+                        46.54,
+                        659.78,
+                        476.8
+                    ]
+                }
+            ],
+            "object_count": 1
+        },
+        {
+            "frame_index": 14,
+            "timestamp_seconds": 14.0,
+            "source_frame": "data/frames/test_video/frame_0014.jpg",
+            "annotated_frame": "data/output/detections/frame_0014.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9423,
+                    "bounding_box_xyxy": [
+                        202.15,
+                        43.67,
+                        658.65,
+                        477.63
+                    ]
+                }
+            ],
+            "object_count": 1
+        },
+        {
+            "frame_index": 15,
+            "timestamp_seconds": 15.0,
+            "source_frame": "data/frames/test_video/frame_0015.jpg",
+            "annotated_frame": "data/output/detections/frame_0015.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9421,
+                    "bounding_box_xyxy": [
+                        202.48,
+                        44.23,
+                        660.21,
+                        477.55
+                    ]
+                }
+            ],
+            "object_count": 1
+        },
+        {
+            "frame_index": 16,
+            "timestamp_seconds": 16.0,
+            "source_frame": "data/frames/test_video/frame_0016.jpg",
+            "annotated_frame": "data/output/detections/frame_0016.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9403,
+                    "bounding_box_xyxy": [
+                        203.31,
+                        44.46,
+                        659.85,
+                        477.5
+                    ]
+                }
+            ],
+            "object_count": 1
+        },
+        {
+            "frame_index": 17,
+            "timestamp_seconds": 17.0,
+            "source_frame": "data/frames/test_video/frame_0017.jpg",
+            "annotated_frame": "data/output/detections/frame_0017.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9285,
+                    "bounding_box_xyxy": [
+                        168.63,
+                        32.2,
+                        637.78,
+                        477.95
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.4236,
+                    "bounding_box_xyxy": [
+                        791.74,
+                        429.26,
+                        853.7,
+                        479.73
+                    ]
+                }
+            ],
+            "object_count": 2
+        },
+        {
+            "frame_index": 18,
+            "timestamp_seconds": 18.0,
+            "source_frame": "data/frames/test_video/frame_0018.jpg",
+            "annotated_frame": "data/output/detections/frame_0018.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9284,
+                    "bounding_box_xyxy": [
+                        178.32,
+                        34.82,
+                        640.38,
+                        477.05
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.6416,
+                    "bounding_box_xyxy": [
+                        787.75,
+                        288.84,
+                        853.87,
+                        477.19
+                    ]
+                }
+            ],
+            "object_count": 2
+        },
+        {
+            "frame_index": 19,
+            "timestamp_seconds": 19.0,
+            "source_frame": "data/frames/test_video/frame_0019.jpg",
+            "annotated_frame": "data/output/detections/frame_0019.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.926,
+                    "bounding_box_xyxy": [
+                        178.06,
+                        34.2,
+                        642.83,
+                        477.03
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.5977,
+                    "bounding_box_xyxy": [
+                        789.08,
+                        287.61,
+                        853.87,
+                        477.07
+                    ]
+                }
+            ],
+            "object_count": 2
+        },
+        {
+            "frame_index": 20,
+            "timestamp_seconds": 20.0,
+            "source_frame": "data/frames/test_video/frame_0020.jpg",
+            "annotated_frame": "data/output/detections/frame_0020.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9063,
+                    "bounding_box_xyxy": [
+                        167.15,
+                        36.14,
+                        641.07,
+                        477.76
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.4081,
+                    "bounding_box_xyxy": [
+                        790.48,
+                        276.32,
+                        853.97,
+                        476.31
+                    ]
+                }
+            ],
+            "object_count": 2
+        },
+        {
+            "frame_index": 21,
+            "timestamp_seconds": 21.0,
+            "source_frame": "data/frames/test_video/frame_0021.jpg",
+            "annotated_frame": "data/output/detections/frame_0021.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9239,
+                    "bounding_box_xyxy": [
+                        178.09,
+                        34.12,
+                        643.03,
+                        477.31
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.5244,
+                    "bounding_box_xyxy": [
+                        791.69,
+                        288.27,
+                        853.89,
+                        477.26
+                    ]
+                }
+            ],
+            "object_count": 2
+        },
+        {
+            "frame_index": 22,
+            "timestamp_seconds": 22.0,
+            "source_frame": "data/frames/test_video/frame_0022.jpg",
+            "annotated_frame": "data/output/detections/frame_0022.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8737,
+                    "bounding_box_xyxy": [
+                        146.62,
+                        34.0,
+                        643.78,
+                        477.79
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.6027,
+                    "bounding_box_xyxy": [
+                        790.45,
+                        286.85,
+                        853.88,
+                        477.35
+                    ]
+                },
+                {
+                    "class_id": 67,
+                    "label": "cell phone",
+                    "confidence": 0.4864,
+                    "bounding_box_xyxy": [
+                        129.26,
+                        408.56,
+                        261.68,
+                        459.39
+                    ]
+                },
+                {
+                    "class_id": 65,
+                    "label": "remote",
+                    "confidence": 0.3834,
+                    "bounding_box_xyxy": [
+                        128.3,
+                        409.7,
+                        260.45,
+                        457.81
+                    ]
+                }
+            ],
+            "object_count": 4
+        },
+        {
+            "frame_index": 23,
+            "timestamp_seconds": 23.0,
+            "source_frame": "data/frames/test_video/frame_0023.jpg",
+            "annotated_frame": "data/output/detections/frame_0023.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.913,
+                    "bounding_box_xyxy": [
+                        112.84,
+                        31.47,
+                        644.74,
+                        478.56
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.5161,
+                    "bounding_box_xyxy": [
+                        790.18,
+                        290.85,
+                        853.92,
+                        476.86
+                    ]
+                },
+                {
+                    "class_id": 65,
+                    "label": "remote",
+                    "confidence": 0.3154,
+                    "bounding_box_xyxy": [
+                        102.03,
+                        415.41,
+                        185.35,
+                        441.52
+                    ]
+                }
+            ],
+            "object_count": 3
+        },
+        {
+            "frame_index": 24,
+            "timestamp_seconds": 24.0,
+            "source_frame": "data/frames/test_video/frame_0024.jpg",
+            "annotated_frame": "data/output/detections/frame_0024.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8868,
+                    "bounding_box_xyxy": [
+                        138.07,
+                        34.89,
+                        643.93,
+                        476.16
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.413,
+                    "bounding_box_xyxy": [
+                        791.36,
+                        287.49,
+                        853.9,
+                        477.29
+                    ]
+                }
+            ],
+            "object_count": 2
+        },
+        {
+            "frame_index": 25,
+            "timestamp_seconds": 25.0,
+            "source_frame": "data/frames/test_video/frame_0025.jpg",
+            "annotated_frame": "data/output/detections/frame_0025.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.922,
+                    "bounding_box_xyxy": [
+                        180.2,
+                        38.06,
+                        642.43,
+                        477.53
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.4908,
+                    "bounding_box_xyxy": [
+                        792.0,
+                        288.32,
+                        853.9,
+                        476.79
+                    ]
+                }
+            ],
+            "object_count": 2
+        },
+        {
+            "frame_index": 26,
+            "timestamp_seconds": 26.0,
+            "source_frame": "data/frames/test_video/frame_0026.jpg",
+            "annotated_frame": "data/output/detections/frame_0026.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9156,
+                    "bounding_box_xyxy": [
+                        96.56,
+                        45.29,
+                        367.3,
+                        457.03
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.89,
+                    "bounding_box_xyxy": [
+                        348.85,
+                        58.37,
+                        483.92,
+                        209.98
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8432,
+                    "bounding_box_xyxy": [
+                        615.19,
+                        52.05,
+                        805.73,
+                        463.39
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8082,
+                    "bounding_box_xyxy": [
+                        560.38,
+                        59.45,
+                        683.81,
+                        289.81
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.6164,
+                    "bounding_box_xyxy": [
+                        190.29,
+                        202.02,
+                        674.13,
+                        476.41
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5611,
+                    "bounding_box_xyxy": [
+                        728.72,
+                        314.68,
+                        801.09,
+                        475.36
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5473,
+                    "bounding_box_xyxy": [
+                        71.09,
+                        276.03,
+                        194.6,
+                        475.42
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.5389,
+                    "bounding_box_xyxy": [
+                        217.72,
+                        92.51,
+                        364.31,
+                        245.4
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3682,
+                    "bounding_box_xyxy": [
+                        70.56,
+                        275.24,
+                        133.22,
+                        471.61
+                    ]
+                }
+            ],
+            "object_count": 9
+        },
+        {
+            "frame_index": 27,
+            "timestamp_seconds": 27.0,
+            "source_frame": "data/frames/test_video/frame_0027.jpg",
+            "annotated_frame": "data/output/detections/frame_0027.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9138,
+                    "bounding_box_xyxy": [
+                        95.97,
+                        45.07,
+                        366.96,
+                        457.19
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8924,
+                    "bounding_box_xyxy": [
+                        348.57,
+                        58.56,
+                        484.0,
+                        209.4
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8463,
+                    "bounding_box_xyxy": [
+                        614.89,
+                        53.01,
+                        806.19,
+                        463.81
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8348,
+                    "bounding_box_xyxy": [
+                        559.39,
+                        60.24,
+                        682.24,
+                        285.31
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.6353,
+                    "bounding_box_xyxy": [
+                        214.55,
+                        91.78,
+                        358.85,
+                        244.91
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.6178,
+                    "bounding_box_xyxy": [
+                        188.62,
+                        202.7,
+                        672.93,
+                        474.54
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5847,
+                    "bounding_box_xyxy": [
+                        728.41,
+                        314.98,
+                        801.14,
+                        475.27
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5294,
+                    "bounding_box_xyxy": [
+                        71.3,
+                        276.6,
+                        194.78,
+                        475.44
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3746,
+                    "bounding_box_xyxy": [
+                        70.57,
+                        275.48,
+                        132.93,
+                        471.58
+                    ]
+                }
+            ],
+            "object_count": 9
+        },
+        {
+            "frame_index": 28,
+            "timestamp_seconds": 28.0,
+            "source_frame": "data/frames/test_video/frame_0028.jpg",
+            "annotated_frame": "data/output/detections/frame_0028.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9139,
+                    "bounding_box_xyxy": [
+                        95.1,
+                        44.73,
+                        374.56,
+                        456.49
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8917,
+                    "bounding_box_xyxy": [
+                        348.93,
+                        58.81,
+                        484.05,
+                        208.54
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.851,
+                    "bounding_box_xyxy": [
+                        614.96,
+                        53.07,
+                        805.6,
+                        463.23
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8384,
+                    "bounding_box_xyxy": [
+                        559.91,
+                        60.58,
+                        681.83,
+                        285.35
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.6342,
+                    "bounding_box_xyxy": [
+                        214.31,
+                        94.14,
+                        363.92,
+                        243.13
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5882,
+                    "bounding_box_xyxy": [
+                        728.24,
+                        315.37,
+                        801.28,
+                        475.26
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.5645,
+                    "bounding_box_xyxy": [
+                        188.51,
+                        204.9,
+                        672.92,
+                        474.5
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5178,
+                    "bounding_box_xyxy": [
+                        71.07,
+                        276.37,
+                        194.75,
+                        475.4
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3677,
+                    "bounding_box_xyxy": [
+                        70.36,
+                        275.22,
+                        133.33,
+                        471.67
+                    ]
+                }
+            ],
+            "object_count": 9
+        },
+        {
+            "frame_index": 29,
+            "timestamp_seconds": 29.0,
+            "source_frame": "data/frames/test_video/frame_0029.jpg",
+            "annotated_frame": "data/output/detections/frame_0029.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9093,
+                    "bounding_box_xyxy": [
+                        94.87,
+                        44.22,
+                        371.4,
+                        456.09
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8843,
+                    "bounding_box_xyxy": [
+                        347.2,
+                        59.13,
+                        484.02,
+                        210.31
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.849,
+                    "bounding_box_xyxy": [
+                        614.76,
+                        52.92,
+                        806.05,
+                        463.37
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8318,
+                    "bounding_box_xyxy": [
+                        560.46,
+                        59.42,
+                        682.79,
+                        288.71
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.6196,
+                    "bounding_box_xyxy": [
+                        213.81,
+                        93.45,
+                        363.62,
+                        243.31
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5523,
+                    "bounding_box_xyxy": [
+                        728.17,
+                        315.33,
+                        801.26,
+                        475.23
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.5372,
+                    "bounding_box_xyxy": [
+                        188.45,
+                        203.78,
+                        672.8,
+                        474.45
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5019,
+                    "bounding_box_xyxy": [
+                        71.37,
+                        277.0,
+                        194.75,
+                        475.45
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3701,
+                    "bounding_box_xyxy": [
+                        70.51,
+                        275.19,
+                        133.71,
+                        471.78
+                    ]
+                }
+            ],
+            "object_count": 9
+        },
+        {
+            "frame_index": 30,
+            "timestamp_seconds": 30.0,
+            "source_frame": "data/frames/test_video/frame_0030.jpg",
+            "annotated_frame": "data/output/detections/frame_0030.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9041,
+                    "bounding_box_xyxy": [
+                        97.63,
+                        49.04,
+                        360.99,
+                        454.87
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.88,
+                    "bounding_box_xyxy": [
+                        351.08,
+                        58.17,
+                        484.35,
+                        209.13
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8365,
+                    "bounding_box_xyxy": [
+                        614.9,
+                        52.75,
+                        808.68,
+                        464.52
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8216,
+                    "bounding_box_xyxy": [
+                        558.15,
+                        59.07,
+                        681.18,
+                        285.96
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.6537,
+                    "bounding_box_xyxy": [
+                        221.16,
+                        91.9,
+                        355.94,
+                        239.91
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5809,
+                    "bounding_box_xyxy": [
+                        728.18,
+                        315.26,
+                        801.24,
+                        475.44
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.5416,
+                    "bounding_box_xyxy": [
+                        188.44,
+                        204.66,
+                        672.61,
+                        474.28
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5308,
+                    "bounding_box_xyxy": [
+                        71.55,
+                        275.89,
+                        194.72,
+                        475.5
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3592,
+                    "bounding_box_xyxy": [
+                        70.7,
+                        273.9,
+                        133.15,
+                        471.9
+                    ]
+                }
+            ],
+            "object_count": 9
+        },
+        {
+            "frame_index": 31,
+            "timestamp_seconds": 31.0,
+            "source_frame": "data/frames/test_video/frame_0031.jpg",
+            "annotated_frame": "data/output/detections/frame_0031.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.902,
+                    "bounding_box_xyxy": [
+                        95.8,
+                        45.17,
+                        391.29,
+                        455.53
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8794,
+                    "bounding_box_xyxy": [
+                        350.89,
+                        57.93,
+                        484.21,
+                        209.92
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.837,
+                    "bounding_box_xyxy": [
+                        615.05,
+                        52.45,
+                        807.41,
+                        464.1
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8176,
+                    "bounding_box_xyxy": [
+                        558.98,
+                        58.49,
+                        681.71,
+                        285.75
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5735,
+                    "bounding_box_xyxy": [
+                        727.94,
+                        315.71,
+                        801.29,
+                        475.42
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.5719,
+                    "bounding_box_xyxy": [
+                        219.37,
+                        93.45,
+                        386.85,
+                        255.07
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5192,
+                    "bounding_box_xyxy": [
+                        70.77,
+                        275.64,
+                        194.38,
+                        475.45
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.5182,
+                    "bounding_box_xyxy": [
+                        188.91,
+                        203.53,
+                        674.54,
+                        475.49
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3414,
+                    "bounding_box_xyxy": [
+                        70.33,
+                        274.46,
+                        133.54,
+                        472.12
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.2507,
+                    "bounding_box_xyxy": [
+                        655.74,
+                        314.87,
+                        802.19,
+                        475.3
+                    ]
+                }
+            ],
+            "object_count": 10
+        },
+        {
+            "frame_index": 32,
+            "timestamp_seconds": 32.0,
+            "source_frame": "data/frames/test_video/frame_0032.jpg",
+            "annotated_frame": "data/output/detections/frame_0032.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8926,
+                    "bounding_box_xyxy": [
+                        96.19,
+                        45.53,
+                        394.45,
+                        456.85
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8823,
+                    "bounding_box_xyxy": [
+                        351.23,
+                        58.51,
+                        484.06,
+                        209.82
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8228,
+                    "bounding_box_xyxy": [
+                        560.0,
+                        59.07,
+                        682.44,
+                        289.17
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.789,
+                    "bounding_box_xyxy": [
+                        613.42,
+                        53.22,
+                        808.28,
+                        459.75
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.6182,
+                    "bounding_box_xyxy": [
+                        188.8,
+                        200.91,
+                        674.18,
+                        475.13
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5169,
+                    "bounding_box_xyxy": [
+                        70.85,
+                        275.62,
+                        194.56,
+                        475.19
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.4394,
+                    "bounding_box_xyxy": [
+                        218.83,
+                        96.88,
+                        381.47,
+                        242.14
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3524,
+                    "bounding_box_xyxy": [
+                        723.99,
+                        314.6,
+                        801.13,
+                        475.68
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.2732,
+                    "bounding_box_xyxy": [
+                        70.16,
+                        274.21,
+                        135.04,
+                        467.65
+                    ]
+                }
+            ],
+            "object_count": 9
+        },
+        {
+            "frame_index": 33,
+            "timestamp_seconds": 33.0,
+            "source_frame": "data/frames/test_video/frame_0033.jpg",
+            "annotated_frame": "data/output/detections/frame_0033.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9034,
+                    "bounding_box_xyxy": [
+                        95.92,
+                        44.88,
+                        394.42,
+                        456.22
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8821,
+                    "bounding_box_xyxy": [
+                        351.22,
+                        57.87,
+                        484.18,
+                        209.44
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.827,
+                    "bounding_box_xyxy": [
+                        614.04,
+                        53.03,
+                        806.71,
+                        463.63
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8102,
+                    "bounding_box_xyxy": [
+                        560.08,
+                        58.02,
+                        681.9,
+                        287.15
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.6047,
+                    "bounding_box_xyxy": [
+                        188.95,
+                        200.6,
+                        674.27,
+                        475.22
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.5955,
+                    "bounding_box_xyxy": [
+                        218.98,
+                        94.33,
+                        387.92,
+                        246.86
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5229,
+                    "bounding_box_xyxy": [
+                        71.15,
+                        276.67,
+                        194.42,
+                        475.29
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3946,
+                    "bounding_box_xyxy": [
+                        725.4,
+                        314.66,
+                        801.09,
+                        475.76
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.2558,
+                    "bounding_box_xyxy": [
+                        70.14,
+                        273.72,
+                        134.19,
+                        469.47
+                    ]
+                }
+            ],
+            "object_count": 9
+        },
+        {
+            "frame_index": 34,
+            "timestamp_seconds": 34.0,
+            "source_frame": "data/frames/test_video/frame_0034.jpg",
+            "annotated_frame": "data/output/detections/frame_0034.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.908,
+                    "bounding_box_xyxy": [
+                        95.82,
+                        43.47,
+                        395.1,
+                        455.88
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8826,
+                    "bounding_box_xyxy": [
+                        351.2,
+                        58.07,
+                        484.2,
+                        209.51
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.817,
+                    "bounding_box_xyxy": [
+                        614.26,
+                        53.18,
+                        807.3,
+                        461.23
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.797,
+                    "bounding_box_xyxy": [
+                        560.76,
+                        57.45,
+                        681.85,
+                        286.6
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.5758,
+                    "bounding_box_xyxy": [
+                        188.11,
+                        202.14,
+                        672.5,
+                        475.54
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.5735,
+                    "bounding_box_xyxy": [
+                        216.39,
+                        89.7,
+                        389.9,
+                        245.04
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.497,
+                    "bounding_box_xyxy": [
+                        71.31,
+                        278.48,
+                        194.72,
+                        475.26
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3751,
+                    "bounding_box_xyxy": [
+                        720.11,
+                        314.54,
+                        800.98,
+                        475.62
+                    ]
+                }
+            ],
+            "object_count": 8
+        },
+        {
+            "frame_index": 35,
+            "timestamp_seconds": 35.0,
+            "source_frame": "data/frames/test_video/frame_0035.jpg",
+            "annotated_frame": "data/output/detections/frame_0035.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8879,
+                    "bounding_box_xyxy": [
+                        105.06,
+                        33.14,
+                        645.76,
+                        473.4
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.6229,
+                    "bounding_box_xyxy": [
+                        627.08,
+                        387.67,
+                        765.46,
+                        476.91
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.4524,
+                    "bounding_box_xyxy": [
+                        0.31,
+                        23.85,
+                        127.94,
+                        400.19
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3723,
+                    "bounding_box_xyxy": [
+                        552.83,
+                        23.93,
+                        699.92,
+                        141.47
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3371,
+                    "bounding_box_xyxy": [
+                        113.18,
+                        332.36,
+                        249.31,
+                        393.68
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3332,
+                    "bounding_box_xyxy": [
+                        181.89,
+                        99.54,
+                        322.77,
+                        218.85
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.2998,
+                    "bounding_box_xyxy": [
+                        179.87,
+                        100.37,
+                        394.75,
+                        346.77
+                    ]
+                }
+            ],
+            "object_count": 7
+        },
+        {
+            "frame_index": 36,
+            "timestamp_seconds": 36.0,
+            "source_frame": "data/frames/test_video/frame_0036.jpg",
+            "annotated_frame": "data/output/detections/frame_0036.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8933,
+                    "bounding_box_xyxy": [
+                        103.84,
+                        31.47,
+                        647.59,
+                        473.96
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5597,
+                    "bounding_box_xyxy": [
+                        631.29,
+                        388.55,
+                        765.42,
+                        476.91
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.3821,
+                    "bounding_box_xyxy": [
+                        0.28,
+                        28.5,
+                        128.34,
+                        405.25
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3364,
+                    "bounding_box_xyxy": [
+                        551.84,
+                        24.14,
+                        700.41,
+                        141.44
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3098,
+                    "bounding_box_xyxy": [
+                        180.22,
+                        100.45,
+                        398.98,
+                        348.52
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3088,
+                    "bounding_box_xyxy": [
+                        181.87,
+                        99.8,
+                        325.5,
+                        220.54
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.2732,
+                    "bounding_box_xyxy": [
+                        113.85,
+                        331.93,
+                        249.06,
+                        392.92
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.2666,
+                    "bounding_box_xyxy": [
+                        322.38,
+                        123.37,
+                        391.3,
+                        231.7
+                    ]
+                }
+            ],
+            "object_count": 8
+        },
+        {
+            "frame_index": 37,
+            "timestamp_seconds": 37.0,
+            "source_frame": "data/frames/test_video/frame_0037.jpg",
+            "annotated_frame": "data/output/detections/frame_0037.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8958,
+                    "bounding_box_xyxy": [
+                        101.89,
+                        30.47,
+                        652.47,
+                        469.01
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5288,
+                    "bounding_box_xyxy": [
+                        630.73,
+                        389.53,
+                        765.5,
+                        476.72
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5156,
+                    "bounding_box_xyxy": [
+                        549.71,
+                        25.36,
+                        703.08,
+                        142.55
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.4755,
+                    "bounding_box_xyxy": [
+                        0.31,
+                        24.86,
+                        127.14,
+                        401.26
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3541,
+                    "bounding_box_xyxy": [
+                        181.82,
+                        100.36,
+                        324.37,
+                        218.28
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3172,
+                    "bounding_box_xyxy": [
+                        182.09,
+                        100.29,
+                        390.55,
+                        344.38
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3104,
+                    "bounding_box_xyxy": [
+                        316.37,
+                        123.41,
+                        389.51,
+                        226.95
+                    ]
+                }
+            ],
+            "object_count": 7
+        },
+        {
+            "frame_index": 38,
+            "timestamp_seconds": 38.0,
+            "source_frame": "data/frames/test_video/frame_0038.jpg",
+            "annotated_frame": "data/output/detections/frame_0038.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8899,
+                    "bounding_box_xyxy": [
+                        94.7,
+                        29.88,
+                        651.49,
+                        470.15
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.4724,
+                    "bounding_box_xyxy": [
+                        632.77,
+                        388.87,
+                        765.1,
+                        476.68
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3461,
+                    "bounding_box_xyxy": [
+                        180.56,
+                        100.93,
+                        401.02,
+                        349.4
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3345,
+                    "bounding_box_xyxy": [
+                        549.29,
+                        25.22,
+                        699.52,
+                        143.04
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3316,
+                    "bounding_box_xyxy": [
+                        182.67,
+                        100.55,
+                        325.36,
+                        220.02
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.3302,
+                    "bounding_box_xyxy": [
+                        0.22,
+                        26.49,
+                        129.83,
+                        408.91
+                    ]
+                }
+            ],
+            "object_count": 6
+        },
+        {
+            "frame_index": 39,
+            "timestamp_seconds": 39.0,
+            "source_frame": "data/frames/test_video/frame_0039.jpg",
+            "annotated_frame": "data/output/detections/frame_0039.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9175,
+                    "bounding_box_xyxy": [
+                        93.21,
+                        34.41,
+                        648.41,
+                        470.87
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5301,
+                    "bounding_box_xyxy": [
+                        629.5,
+                        388.06,
+                        765.6,
+                        476.89
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.4337,
+                    "bounding_box_xyxy": [
+                        183.51,
+                        100.52,
+                        390.91,
+                        345.55
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3182,
+                    "bounding_box_xyxy": [
+                        553.06,
+                        24.24,
+                        700.52,
+                        141.63
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3101,
+                    "bounding_box_xyxy": [
+                        113.23,
+                        332.79,
+                        250.38,
+                        396.79
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.2717,
+                    "bounding_box_xyxy": [
+                        0.32,
+                        33.38,
+                        127.15,
+                        408.27
+                    ]
+                }
+            ],
+            "object_count": 6
+        },
+        {
+            "frame_index": 40,
+            "timestamp_seconds": 40.0,
+            "source_frame": "data/frames/test_video/frame_0040.jpg",
+            "annotated_frame": "data/output/detections/frame_0040.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9071,
+                    "bounding_box_xyxy": [
+                        90.5,
+                        28.83,
+                        651.77,
+                        472.75
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.4312,
+                    "bounding_box_xyxy": [
+                        630.48,
+                        389.58,
+                        765.56,
+                        476.71
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.4042,
+                    "bounding_box_xyxy": [
+                        0.32,
+                        25.46,
+                        127.99,
+                        404.05
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3737,
+                    "bounding_box_xyxy": [
+                        182.53,
+                        100.36,
+                        326.44,
+                        219.96
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3595,
+                    "bounding_box_xyxy": [
+                        538.89,
+                        25.26,
+                        700.71,
+                        143.43
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.296,
+                    "bounding_box_xyxy": [
+                        321.8,
+                        123.28,
+                        394.22,
+                        231.87
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.292,
+                    "bounding_box_xyxy": [
+                        181.63,
+                        100.92,
+                        400.98,
+                        349.64
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.2814,
+                    "bounding_box_xyxy": [
+                        113.76,
+                        332.7,
+                        249.59,
+                        393.44
+                    ]
+                }
+            ],
+            "object_count": 8
+        },
+        {
+            "frame_index": 41,
+            "timestamp_seconds": 41.0,
+            "source_frame": "data/frames/test_video/frame_0041.jpg",
+            "annotated_frame": "data/output/detections/frame_0041.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8849,
+                    "bounding_box_xyxy": [
+                        105.54,
+                        31.19,
+                        644.51,
+                        473.38
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5864,
+                    "bounding_box_xyxy": [
+                        626.3,
+                        389.28,
+                        765.59,
+                        476.85
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.4496,
+                    "bounding_box_xyxy": [
+                        555.13,
+                        25.39,
+                        702.86,
+                        143.0
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.4039,
+                    "bounding_box_xyxy": [
+                        0.24,
+                        27.85,
+                        128.86,
+                        401.1
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3679,
+                    "bounding_box_xyxy": [
+                        182.43,
+                        100.34,
+                        326.21,
+                        219.28
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.2785,
+                    "bounding_box_xyxy": [
+                        113.85,
+                        332.64,
+                        249.88,
+                        394.07
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.261,
+                    "bounding_box_xyxy": [
+                        179.91,
+                        100.49,
+                        398.57,
+                        348.81
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.2568,
+                    "bounding_box_xyxy": [
+                        320.23,
+                        123.02,
+                        394.75,
+                        224.53
+                    ]
+                }
+            ],
+            "object_count": 8
+        },
+        {
+            "frame_index": 42,
+            "timestamp_seconds": 42.0,
+            "source_frame": "data/frames/test_video/frame_0042.jpg",
+            "annotated_frame": "data/output/detections/frame_0042.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8836,
+                    "bounding_box_xyxy": [
+                        125.97,
+                        26.05,
+                        650.1,
+                        467.69
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5573,
+                    "bounding_box_xyxy": [
+                        626.81,
+                        390.01,
+                        765.71,
+                        476.44
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3998,
+                    "bounding_box_xyxy": [
+                        183.13,
+                        100.93,
+                        324.5,
+                        214.95
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3601,
+                    "bounding_box_xyxy": [
+                        554.72,
+                        25.18,
+                        704.48,
+                        141.45
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.3244,
+                    "bounding_box_xyxy": [
+                        0.38,
+                        4.78,
+                        232.6,
+                        447.02
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3084,
+                    "bounding_box_xyxy": [
+                        330.05,
+                        124.38,
+                        410.55,
+                        236.79
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.2665,
+                    "bounding_box_xyxy": [
+                        688.55,
+                        272.47,
+                        853.48,
+                        475.71
+                    ]
+                }
+            ],
+            "object_count": 7
+        },
+        {
+            "frame_index": 43,
+            "timestamp_seconds": 43.0,
+            "source_frame": "data/frames/test_video/frame_0043.jpg",
+            "annotated_frame": "data/output/detections/frame_0043.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9048,
+                    "bounding_box_xyxy": [
+                        111.13,
+                        28.09,
+                        646.08,
+                        474.24
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.5331,
+                    "bounding_box_xyxy": [
+                        0.18,
+                        5.74,
+                        129.39,
+                        405.15
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.4963,
+                    "bounding_box_xyxy": [
+                        627.97,
+                        389.14,
+                        764.61,
+                        476.41
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.4458,
+                    "bounding_box_xyxy": [
+                        556.68,
+                        25.16,
+                        704.71,
+                        142.88
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.4156,
+                    "bounding_box_xyxy": [
+                        183.12,
+                        100.76,
+                        323.24,
+                        214.73
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3076,
+                    "bounding_box_xyxy": [
+                        113.56,
+                        332.31,
+                        250.35,
+                        393.58
+                    ]
+                }
+            ],
+            "object_count": 6
+        },
+        {
+            "frame_index": 44,
+            "timestamp_seconds": 44.0,
+            "source_frame": "data/frames/test_video/frame_0044.jpg",
+            "annotated_frame": "data/output/detections/frame_0044.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8943,
+                    "bounding_box_xyxy": [
+                        118.74,
+                        29.08,
+                        649.35,
+                        471.17
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.5615,
+                    "bounding_box_xyxy": [
+                        0.16,
+                        5.9,
+                        128.53,
+                        413.65
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.4598,
+                    "bounding_box_xyxy": [
+                        630.06,
+                        389.77,
+                        764.61,
+                        476.57
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3582,
+                    "bounding_box_xyxy": [
+                        182.95,
+                        100.73,
+                        325.7,
+                        216.58
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3568,
+                    "bounding_box_xyxy": [
+                        182.21,
+                        101.21,
+                        390.52,
+                        346.66
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3073,
+                    "bounding_box_xyxy": [
+                        534.35,
+                        24.65,
+                        704.65,
+                        141.27
+                    ]
+                }
+            ],
+            "object_count": 6
+        },
+        {
+            "frame_index": 45,
+            "timestamp_seconds": 45.0,
+            "source_frame": "data/frames/test_video/frame_0045.jpg",
+            "annotated_frame": "data/output/detections/frame_0045.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9293,
+                    "bounding_box_xyxy": [
+                        73.11,
+                        64.61,
+                        394.79,
+                        473.88
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.857,
+                    "bounding_box_xyxy": [
+                        350.17,
+                        83.79,
+                        522.78,
+                        258.53
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.819,
+                    "bounding_box_xyxy": [
+                        602.19,
+                        83.23,
+                        830.13,
+                        471.98
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.7108,
+                    "bounding_box_xyxy": [
+                        483.13,
+                        81.08,
+                        704.66,
+                        312.77
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.538,
+                    "bounding_box_xyxy": [
+                        179.36,
+                        244.29,
+                        707.7,
+                        472.05
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.5025,
+                    "bounding_box_xyxy": [
+                        206.24,
+                        119.37,
+                        397.92,
+                        276.6
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.4841,
+                    "bounding_box_xyxy": [
+                        788.88,
+                        335.55,
+                        853.68,
+                        476.7
+                    ]
+                }
+            ],
+            "object_count": 7
+        },
+        {
+            "frame_index": 46,
+            "timestamp_seconds": 46.0,
+            "source_frame": "data/frames/test_video/frame_0046.jpg",
+            "annotated_frame": "data/output/detections/frame_0046.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.928,
+                    "bounding_box_xyxy": [
+                        73.1,
+                        63.69,
+                        388.51,
+                        474.29
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8625,
+                    "bounding_box_xyxy": [
+                        350.44,
+                        83.6,
+                        516.95,
+                        251.24
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.7409,
+                    "bounding_box_xyxy": [
+                        602.53,
+                        83.31,
+                        826.77,
+                        471.41
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.7002,
+                    "bounding_box_xyxy": [
+                        474.78,
+                        81.85,
+                        703.0,
+                        308.04
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.6403,
+                    "bounding_box_xyxy": [
+                        179.1,
+                        240.9,
+                        707.28,
+                        472.7
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.5001,
+                    "bounding_box_xyxy": [
+                        205.08,
+                        120.44,
+                        390.09,
+                        277.87
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.4936,
+                    "bounding_box_xyxy": [
+                        788.82,
+                        335.52,
+                        853.67,
+                        476.68
+                    ]
+                }
+            ],
+            "object_count": 7
+        },
+        {
+            "frame_index": 47,
+            "timestamp_seconds": 47.0,
+            "source_frame": "data/frames/test_video/frame_0047.jpg",
+            "annotated_frame": "data/output/detections/frame_0047.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9235,
+                    "bounding_box_xyxy": [
+                        73.3,
+                        66.06,
+                        393.39,
+                        473.26
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8882,
+                    "bounding_box_xyxy": [
+                        350.75,
+                        83.2,
+                        524.62,
+                        258.58
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.6761,
+                    "bounding_box_xyxy": [
+                        492.1,
+                        82.56,
+                        681.99,
+                        303.84
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.6097,
+                    "bounding_box_xyxy": [
+                        179.37,
+                        242.56,
+                        707.67,
+                        472.58
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.5698,
+                    "bounding_box_xyxy": [
+                        541.98,
+                        88.66,
+                        823.46,
+                        472.39
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5063,
+                    "bounding_box_xyxy": [
+                        788.47,
+                        337.04,
+                        853.67,
+                        476.57
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.483,
+                    "bounding_box_xyxy": [
+                        204.54,
+                        120.11,
+                        395.83,
+                        282.27
+                    ]
+                }
+            ],
+            "object_count": 7
+        },
+        {
+            "frame_index": 48,
+            "timestamp_seconds": 48.0,
+            "source_frame": "data/frames/test_video/frame_0048.jpg",
+            "annotated_frame": "data/output/detections/frame_0048.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9334,
+                    "bounding_box_xyxy": [
+                        73.09,
+                        63.8,
+                        387.55,
+                        474.44
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8852,
+                    "bounding_box_xyxy": [
+                        350.82,
+                        83.6,
+                        523.02,
+                        258.37
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.7182,
+                    "bounding_box_xyxy": [
+                        488.43,
+                        82.89,
+                        681.45,
+                        298.0
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.6588,
+                    "bounding_box_xyxy": [
+                        530.39,
+                        87.53,
+                        828.32,
+                        472.71
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.6493,
+                    "bounding_box_xyxy": [
+                        179.49,
+                        242.78,
+                        707.86,
+                        472.09
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5282,
+                    "bounding_box_xyxy": [
+                        788.62,
+                        335.92,
+                        853.68,
+                        476.61
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.4385,
+                    "bounding_box_xyxy": [
+                        205.22,
+                        120.69,
+                        388.53,
+                        278.6
+                    ]
+                }
+            ],
+            "object_count": 7
+        },
+        {
+            "frame_index": 49,
+            "timestamp_seconds": 49.0,
+            "source_frame": "data/frames/test_video/frame_0049.jpg",
+            "annotated_frame": "data/output/detections/frame_0049.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9263,
+                    "bounding_box_xyxy": [
+                        73.22,
+                        61.83,
+                        400.17,
+                        473.96
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8813,
+                    "bounding_box_xyxy": [
+                        350.24,
+                        83.31,
+                        523.22,
+                        260.18
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.7025,
+                    "bounding_box_xyxy": [
+                        493.89,
+                        83.2,
+                        680.52,
+                        301.07
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.6172,
+                    "bounding_box_xyxy": [
+                        530.19,
+                        86.71,
+                        822.5,
+                        472.34
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.5821,
+                    "bounding_box_xyxy": [
+                        180.72,
+                        246.61,
+                        708.27,
+                        472.26
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.488,
+                    "bounding_box_xyxy": [
+                        788.9,
+                        335.55,
+                        853.68,
+                        476.58
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.4738,
+                    "bounding_box_xyxy": [
+                        205.24,
+                        117.77,
+                        399.53,
+                        275.33
+                    ]
+                }
+            ],
+            "object_count": 7
+        },
+        {
+            "frame_index": 50,
+            "timestamp_seconds": 50.0,
+            "source_frame": "data/frames/test_video/frame_0050.jpg",
+            "annotated_frame": "data/output/detections/frame_0050.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9388,
+                    "bounding_box_xyxy": [
+                        244.02,
+                        47.81,
+                        673.69,
+                        477.13
+                    ]
+                }
+            ],
+            "object_count": 1
+        },
+        {
+            "frame_index": 51,
+            "timestamp_seconds": 51.0,
+            "source_frame": "data/frames/test_video/frame_0051.jpg",
+            "annotated_frame": "data/output/detections/frame_0051.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9471,
+                    "bounding_box_xyxy": [
+                        249.15,
+                        49.21,
+                        676.61,
+                        477.03
+                    ]
+                }
+            ],
+            "object_count": 1
+        },
+        {
+            "frame_index": 52,
+            "timestamp_seconds": 52.0,
+            "source_frame": "data/frames/test_video/frame_0052.jpg",
+            "annotated_frame": "data/output/detections/frame_0052.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9459,
+                    "bounding_box_xyxy": [
+                        251.59,
+                        49.24,
+                        675.91,
+                        477.4
+                    ]
+                }
+            ],
+            "object_count": 1
+        },
+        {
+            "frame_index": 53,
+            "timestamp_seconds": 53.0,
+            "source_frame": "data/frames/test_video/frame_0053.jpg",
+            "annotated_frame": "data/output/detections/frame_0053.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9425,
+                    "bounding_box_xyxy": [
+                        239.5,
+                        52.05,
+                        675.61,
+                        478.21
+                    ]
+                }
+            ],
+            "object_count": 1
+        },
+        {
+            "frame_index": 54,
+            "timestamp_seconds": 54.0,
+            "source_frame": "data/frames/test_video/frame_0054.jpg",
+            "annotated_frame": "data/output/detections/frame_0054.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9442,
+                    "bounding_box_xyxy": [
+                        244.69,
+                        52.08,
+                        676.05,
+                        477.88
+                    ]
+                }
+            ],
+            "object_count": 1
+        },
+        {
+            "frame_index": 55,
+            "timestamp_seconds": 55.0,
+            "source_frame": "data/frames/test_video/frame_0055.jpg",
+            "annotated_frame": "data/output/detections/frame_0055.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.938,
+                    "bounding_box_xyxy": [
+                        239.23,
+                        60.92,
+                        675.33,
+                        478.62
+                    ]
+                }
+            ],
+            "object_count": 1
+        },
+        {
+            "frame_index": 56,
+            "timestamp_seconds": 56.0,
+            "source_frame": "data/frames/test_video/frame_0056.jpg",
+            "annotated_frame": "data/output/detections/frame_0056.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.937,
+                    "bounding_box_xyxy": [
+                        241.97,
+                        49.6,
+                        675.5,
+                        476.74
+                    ]
+                }
+            ],
+            "object_count": 1
+        },
+        {
+            "frame_index": 57,
+            "timestamp_seconds": 57.0,
+            "source_frame": "data/frames/test_video/frame_0057.jpg",
+            "annotated_frame": "data/output/detections/frame_0057.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9422,
+                    "bounding_box_xyxy": [
+                        240.45,
+                        49.99,
+                        675.75,
+                        477.02
+                    ]
+                }
+            ],
+            "object_count": 1
+        },
+        {
+            "frame_index": 58,
+            "timestamp_seconds": 58.0,
+            "source_frame": "data/frames/test_video/frame_0058.jpg",
+            "annotated_frame": "data/output/detections/frame_0058.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9376,
+                    "bounding_box_xyxy": [
+                        239.59,
+                        50.53,
+                        676.52,
+                        477.4
+                    ]
+                }
+            ],
+            "object_count": 1
+        },
+        {
+            "frame_index": 59,
+            "timestamp_seconds": 59.0,
+            "source_frame": "data/frames/test_video/frame_0059.jpg",
+            "annotated_frame": "data/output/detections/frame_0059.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8845,
+                    "bounding_box_xyxy": [
+                        436.09,
+                        88.36,
+                        602.34,
+                        218.71
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.8705,
+                    "bounding_box_xyxy": [
+                        579.11,
+                        280.69,
+                        839.98,
+                        476.76
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.7792,
+                    "bounding_box_xyxy": [
+                        493.34,
+                        42.73,
+                        807.61,
+                        474.07
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.7714,
+                    "bounding_box_xyxy": [
+                        212.51,
+                        50.28,
+                        534.26,
+                        462.26
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.7546,
+                    "bounding_box_xyxy": [
+                        94.94,
+                        220.36,
+                        248.9,
+                        446.86
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.7544,
+                    "bounding_box_xyxy": [
+                        343.85,
+                        58.19,
+                        451.85,
+                        197.35
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.5682,
+                    "bounding_box_xyxy": [
+                        97.34,
+                        61.29,
+                        233.74,
+                        322.67
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5271,
+                    "bounding_box_xyxy": [
+                        456.18,
+                        113.78,
+                        523.56,
+                        182.0
+                    ]
+                },
+                {
+                    "class_id": 62,
+                    "label": "tv",
+                    "confidence": 0.3305,
+                    "bounding_box_xyxy": [
+                        369.63,
+                        0.8,
+                        434.4,
+                        55.01
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3085,
+                    "bounding_box_xyxy": [
+                        364.02,
+                        164.97,
+                        453.81,
+                        197.41
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3057,
+                    "bounding_box_xyxy": [
+                        569.32,
+                        93.65,
+                        612.45,
+                        126.79
+                    ]
+                }
+            ],
+            "object_count": 11
+        },
+        {
+            "frame_index": 60,
+            "timestamp_seconds": 60.0,
+            "source_frame": "data/frames/test_video/frame_0060.jpg",
+            "annotated_frame": "data/output/detections/frame_0060.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8837,
+                    "bounding_box_xyxy": [
+                        434.22,
+                        88.39,
+                        602.2,
+                        219.49
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.8688,
+                    "bounding_box_xyxy": [
+                        580.28,
+                        283.18,
+                        840.39,
+                        477.23
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8075,
+                    "bounding_box_xyxy": [
+                        322.35,
+                        58.23,
+                        453.34,
+                        196.66
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.7617,
+                    "bounding_box_xyxy": [
+                        213.36,
+                        50.62,
+                        522.81,
+                        467.31
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.7494,
+                    "bounding_box_xyxy": [
+                        95.17,
+                        220.51,
+                        248.67,
+                        446.49
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.5682,
+                    "bounding_box_xyxy": [
+                        531.01,
+                        43.12,
+                        807.69,
+                        472.53
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.5626,
+                    "bounding_box_xyxy": [
+                        97.45,
+                        61.25,
+                        234.3,
+                        323.76
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5073,
+                    "bounding_box_xyxy": [
+                        456.73,
+                        113.76,
+                        523.2,
+                        182.07
+                    ]
+                },
+                {
+                    "class_id": 62,
+                    "label": "tv",
+                    "confidence": 0.3679,
+                    "bounding_box_xyxy": [
+                        369.84,
+                        0.79,
+                        434.46,
+                        55.28
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.2971,
+                    "bounding_box_xyxy": [
+                        568.89,
+                        93.63,
+                        612.43,
+                        126.78
+                    ]
+                }
+            ],
+            "object_count": 10
+        },
+        {
+            "frame_index": 61,
+            "timestamp_seconds": 61.0,
+            "source_frame": "data/frames/test_video/frame_0061.jpg",
+            "annotated_frame": "data/output/detections/frame_0061.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9467,
+                    "bounding_box_xyxy": [
+                        173.18,
+                        54.54,
+                        637.04,
+                        477.87
+                    ]
+                }
+            ],
+            "object_count": 1
+        },
+        {
+            "frame_index": 62,
+            "timestamp_seconds": 62.0,
+            "source_frame": "data/frames/test_video/frame_0062.jpg",
+            "annotated_frame": "data/output/detections/frame_0062.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9225,
+                    "bounding_box_xyxy": [
+                        172.08,
+                        56.42,
+                        642.56,
+                        478.99
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.3931,
+                    "bounding_box_xyxy": [
+                        810.2,
+                        223.6,
+                        853.98,
+                        476.96
+                    ]
+                }
+            ],
+            "object_count": 2
+        },
+        {
+            "frame_index": 63,
+            "timestamp_seconds": 63.0,
+            "source_frame": "data/frames/test_video/frame_0063.jpg",
+            "annotated_frame": "data/output/detections/frame_0063.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9263,
+                    "bounding_box_xyxy": [
+                        163.67,
+                        51.43,
+                        643.44,
+                        477.69
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.3041,
+                    "bounding_box_xyxy": [
+                        808.8,
+                        212.96,
+                        854.0,
+                        477.3
+                    ]
+                }
+            ],
+            "object_count": 2
+        },
+        {
+            "frame_index": 64,
+            "timestamp_seconds": 64.0,
+            "source_frame": "data/frames/test_video/frame_0064.jpg",
+            "annotated_frame": "data/output/detections/frame_0064.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9347,
+                    "bounding_box_xyxy": [
+                        171.33,
+                        54.68,
+                        642.48,
+                        479.13
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.4889,
+                    "bounding_box_xyxy": [
+                        802.81,
+                        224.41,
+                        853.91,
+                        477.48
+                    ]
+                }
+            ],
+            "object_count": 2
+        },
+        {
+            "frame_index": 65,
+            "timestamp_seconds": 65.0,
+            "source_frame": "data/frames/test_video/frame_0065.jpg",
+            "annotated_frame": "data/output/detections/frame_0065.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9324,
+                    "bounding_box_xyxy": [
+                        132.24,
+                        58.12,
+                        642.2,
+                        477.44
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.3415,
+                    "bounding_box_xyxy": [
+                        809.97,
+                        204.7,
+                        853.98,
+                        476.69
+                    ]
+                }
+            ],
+            "object_count": 2
+        },
+        {
+            "frame_index": 66,
+            "timestamp_seconds": 66.0,
+            "source_frame": "data/frames/test_video/frame_0066.jpg",
+            "annotated_frame": "data/output/detections/frame_0066.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9261,
+                    "bounding_box_xyxy": [
+                        137.17,
+                        52.61,
+                        643.78,
+                        480.0
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.3571,
+                    "bounding_box_xyxy": [
+                        814.22,
+                        196.79,
+                        853.89,
+                        477.54
+                    ]
+                }
+            ],
+            "object_count": 2
+        },
+        {
+            "frame_index": 67,
+            "timestamp_seconds": 67.0,
+            "source_frame": "data/frames/test_video/frame_0067.jpg",
+            "annotated_frame": "data/output/detections/frame_0067.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9072,
+                    "bounding_box_xyxy": [
+                        133.07,
+                        50.32,
+                        643.31,
+                        479.36
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.252,
+                    "bounding_box_xyxy": [
+                        815.86,
+                        285.33,
+                        854.0,
+                        477.23
+                    ]
+                }
+            ],
+            "object_count": 2
+        },
+        {
+            "frame_index": 68,
+            "timestamp_seconds": 68.0,
+            "source_frame": "data/frames/test_video/frame_0068.jpg",
+            "annotated_frame": "data/output/detections/frame_0068.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.912,
+                    "bounding_box_xyxy": [
+                        154.15,
+                        51.33,
+                        652.68,
+                        479.95
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.3691,
+                    "bounding_box_xyxy": [
+                        816.2,
+                        294.66,
+                        853.91,
+                        478.05
+                    ]
+                }
+            ],
+            "object_count": 2
+        },
+        {
+            "frame_index": 69,
+            "timestamp_seconds": 69.0,
+            "source_frame": "data/frames/test_video/frame_0069.jpg",
+            "annotated_frame": "data/output/detections/frame_0069.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9196,
+                    "bounding_box_xyxy": [
+                        173.47,
+                        55.46,
+                        642.96,
+                        477.43
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.4021,
+                    "bounding_box_xyxy": [
+                        815.91,
+                        299.47,
+                        853.88,
+                        478.3
+                    ]
+                }
+            ],
+            "object_count": 2
+        },
+        {
+            "frame_index": 70,
+            "timestamp_seconds": 70.0,
+            "source_frame": "data/frames/test_video/frame_0070.jpg",
+            "annotated_frame": "data/output/detections/frame_0070.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9329,
+                    "bounding_box_xyxy": [
+                        172.06,
+                        54.83,
+                        637.65,
+                        477.5
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.3238,
+                    "bounding_box_xyxy": [
+                        816.7,
+                        299.68,
+                        853.88,
+                        477.96
+                    ]
+                }
+            ],
+            "object_count": 2
+        },
+        {
+            "frame_index": 71,
+            "timestamp_seconds": 71.0,
+            "source_frame": "data/frames/test_video/frame_0071.jpg",
+            "annotated_frame": "data/output/detections/frame_0071.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9434,
+                    "bounding_box_xyxy": [
+                        174.1,
+                        53.29,
+                        640.43,
+                        477.11
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.3589,
+                    "bounding_box_xyxy": [
+                        816.47,
+                        300.48,
+                        853.88,
+                        478.0
+                    ]
+                }
+            ],
+            "object_count": 2
+        },
+        {
+            "frame_index": 72,
+            "timestamp_seconds": 72.0,
+            "source_frame": "data/frames/test_video/frame_0072.jpg",
+            "annotated_frame": "data/output/detections/frame_0072.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.938,
+                    "bounding_box_xyxy": [
+                        170.53,
+                        58.09,
+                        642.16,
+                        478.23
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.4265,
+                    "bounding_box_xyxy": [
+                        816.66,
+                        299.65,
+                        853.88,
+                        478.36
+                    ]
+                }
+            ],
+            "object_count": 2
+        },
+        {
+            "frame_index": 73,
+            "timestamp_seconds": 73.0,
+            "source_frame": "data/frames/test_video/frame_0073.jpg",
+            "annotated_frame": "data/output/detections/frame_0073.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9494,
+                    "bounding_box_xyxy": [
+                        168.49,
+                        56.7,
+                        640.61,
+                        477.42
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.3994,
+                    "bounding_box_xyxy": [
+                        817.6,
+                        300.59,
+                        853.88,
+                        478.5
+                    ]
+                }
+            ],
+            "object_count": 2
+        },
+        {
+            "frame_index": 74,
+            "timestamp_seconds": 74.0,
+            "source_frame": "data/frames/test_video/frame_0074.jpg",
+            "annotated_frame": "data/output/detections/frame_0074.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8745,
+                    "bounding_box_xyxy": [
+                        186.16,
+                        50.39,
+                        688.72,
+                        477.17
+                    ]
+                },
+                {
+                    "class_id": 27,
+                    "label": "tie",
+                    "confidence": 0.7127,
+                    "bounding_box_xyxy": [
+                        358.03,
+                        263.97,
+                        416.03,
+                        433.6
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.4621,
+                    "bounding_box_xyxy": [
+                        713.24,
+                        193.48,
+                        853.47,
+                        430.06
+                    ]
+                }
+            ],
+            "object_count": 3
+        },
+        {
+            "frame_index": 75,
+            "timestamp_seconds": 75.0,
+            "source_frame": "data/frames/test_video/frame_0075.jpg",
+            "annotated_frame": "data/output/detections/frame_0075.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.892,
+                    "bounding_box_xyxy": [
+                        185.69,
+                        50.27,
+                        705.66,
+                        478.12
+                    ]
+                },
+                {
+                    "class_id": 27,
+                    "label": "tie",
+                    "confidence": 0.641,
+                    "bounding_box_xyxy": [
+                        358.51,
+                        263.51,
+                        416.65,
+                        434.17
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.4476,
+                    "bounding_box_xyxy": [
+                        712.73,
+                        193.83,
+                        853.47,
+                        428.63
+                    ]
+                }
+            ],
+            "object_count": 3
+        },
+        {
+            "frame_index": 76,
+            "timestamp_seconds": 76.0,
+            "source_frame": "data/frames/test_video/frame_0076.jpg",
+            "annotated_frame": "data/output/detections/frame_0076.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8432,
+                    "bounding_box_xyxy": [
+                        186.42,
+                        51.45,
+                        527.41,
+                        477.56
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.666,
+                    "bounding_box_xyxy": [
+                        740.17,
+                        193.84,
+                        853.82,
+                        428.96
+                    ]
+                },
+                {
+                    "class_id": 27,
+                    "label": "tie",
+                    "confidence": 0.6647,
+                    "bounding_box_xyxy": [
+                        363.36,
+                        267.48,
+                        417.96,
+                        435.2
+                    ]
+                }
+            ],
+            "object_count": 3
+        },
+        {
+            "frame_index": 77,
+            "timestamp_seconds": 77.0,
+            "source_frame": "data/frames/test_video/frame_0077.jpg",
+            "annotated_frame": "data/output/detections/frame_0077.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8935,
+                    "bounding_box_xyxy": [
+                        187.44,
+                        43.65,
+                        706.23,
+                        479.11
+                    ]
+                },
+                {
+                    "class_id": 27,
+                    "label": "tie",
+                    "confidence": 0.7561,
+                    "bounding_box_xyxy": [
+                        356.55,
+                        261.61,
+                        416.63,
+                        437.47
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.4509,
+                    "bounding_box_xyxy": [
+                        738.4,
+                        194.05,
+                        853.8,
+                        427.26
+                    ]
+                }
+            ],
+            "object_count": 3
+        },
+        {
+            "frame_index": 78,
+            "timestamp_seconds": 78.0,
+            "source_frame": "data/frames/test_video/frame_0078.jpg",
+            "annotated_frame": "data/output/detections/frame_0078.jpg",
+            "objects": [
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.8649,
+                    "bounding_box_xyxy": [
+                        513.3,
+                        272.61,
+                        751.58,
+                        477.58
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8152,
+                    "bounding_box_xyxy": [
+                        402.65,
+                        84.51,
+                        550.65,
+                        222.69
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8013,
+                    "bounding_box_xyxy": [
+                        220.13,
+                        75.15,
+                        409.84,
+                        264.57
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.7352,
+                    "bounding_box_xyxy": [
+                        562.13,
+                        117.94,
+                        743.81,
+                        418.16
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.5778,
+                    "bounding_box_xyxy": [
+                        58.49,
+                        66.17,
+                        371.63,
+                        469.11
+                    ]
+                },
+                {
+                    "class_id": 27,
+                    "label": "tie",
+                    "confidence": 0.5753,
+                    "bounding_box_xyxy": [
+                        286.33,
+                        168.23,
+                        321.68,
+                        232.6
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.5139,
+                    "bounding_box_xyxy": [
+                        714.55,
+                        75.47,
+                        806.41,
+                        294.68
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.4362,
+                    "bounding_box_xyxy": [
+                        723.09,
+                        253.57,
+                        791.4,
+                        476.93
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3223,
+                    "bounding_box_xyxy": [
+                        566.11,
+                        137.78,
+                        618.13,
+                        186.11
+                    ]
+                }
+            ],
+            "object_count": 9
+        },
+        {
+            "frame_index": 79,
+            "timestamp_seconds": 79.0,
+            "source_frame": "data/frames/test_video/frame_0079.jpg",
+            "annotated_frame": "data/output/detections/frame_0079.jpg",
+            "objects": [
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.8746,
+                    "bounding_box_xyxy": [
+                        513.41,
+                        272.53,
+                        752.21,
+                        477.81
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8162,
+                    "bounding_box_xyxy": [
+                        403.16,
+                        84.42,
+                        550.33,
+                        222.6
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8106,
+                    "bounding_box_xyxy": [
+                        219.96,
+                        75.54,
+                        410.61,
+                        265.45
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8051,
+                    "bounding_box_xyxy": [
+                        563.62,
+                        118.68,
+                        743.28,
+                        418.35
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.7619,
+                    "bounding_box_xyxy": [
+                        58.01,
+                        66.57,
+                        378.85,
+                        474.09
+                    ]
+                },
+                {
+                    "class_id": 27,
+                    "label": "tie",
+                    "confidence": 0.6412,
+                    "bounding_box_xyxy": [
+                        287.76,
+                        167.37,
+                        321.03,
+                        233.2
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.4689,
+                    "bounding_box_xyxy": [
+                        713.75,
+                        74.73,
+                        805.59,
+                        309.35
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.4411,
+                    "bounding_box_xyxy": [
+                        722.72,
+                        253.96,
+                        791.3,
+                        477.11
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3531,
+                    "bounding_box_xyxy": [
+                        566.37,
+                        137.59,
+                        617.93,
+                        189.9
+                    ]
+                }
+            ],
+            "object_count": 9
+        },
+        {
+            "frame_index": 80,
+            "timestamp_seconds": 80.0,
+            "source_frame": "data/frames/test_video/frame_0080.jpg",
+            "annotated_frame": "data/output/detections/frame_0080.jpg",
+            "objects": [
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.8769,
+                    "bounding_box_xyxy": [
+                        512.88,
+                        271.7,
+                        752.66,
+                        477.75
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8182,
+                    "bounding_box_xyxy": [
+                        563.57,
+                        118.51,
+                        743.63,
+                        418.56
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8114,
+                    "bounding_box_xyxy": [
+                        403.56,
+                        84.62,
+                        550.21,
+                        222.48
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.7973,
+                    "bounding_box_xyxy": [
+                        220.31,
+                        75.54,
+                        410.23,
+                        264.9
+                    ]
+                },
+                {
+                    "class_id": 27,
+                    "label": "tie",
+                    "confidence": 0.6099,
+                    "bounding_box_xyxy": [
+                        286.43,
+                        168.52,
+                        320.93,
+                        232.19
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.5938,
+                    "bounding_box_xyxy": [
+                        57.3,
+                        67.16,
+                        381.47,
+                        473.61
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.4472,
+                    "bounding_box_xyxy": [
+                        712.41,
+                        74.74,
+                        805.29,
+                        317.84
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.431,
+                    "bounding_box_xyxy": [
+                        722.6,
+                        253.96,
+                        791.16,
+                        477.03
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3603,
+                    "bounding_box_xyxy": [
+                        566.42,
+                        137.61,
+                        618.04,
+                        189.99
+                    ]
+                }
+            ],
+            "object_count": 9
+        },
+        {
+            "frame_index": 81,
+            "timestamp_seconds": 81.0,
+            "source_frame": "data/frames/test_video/frame_0081.jpg",
+            "annotated_frame": "data/output/detections/frame_0081.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9212,
+                    "bounding_box_xyxy": [
+                        278.6,
+                        64.19,
+                        854.0,
+                        477.07
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.8256,
+                    "bounding_box_xyxy": [
+                        74.1,
+                        281.82,
+                        308.03,
+                        477.55
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.8234,
+                    "bounding_box_xyxy": [
+                        615.24,
+                        236.89,
+                        853.57,
+                        444.46
+                    ]
+                }
+            ],
+            "object_count": 3
+        },
+        {
+            "frame_index": 82,
+            "timestamp_seconds": 82.0,
+            "source_frame": "data/frames/test_video/frame_0082.jpg",
+            "annotated_frame": "data/output/detections/frame_0082.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9167,
+                    "bounding_box_xyxy": [
+                        278.76,
+                        60.8,
+                        854.0,
+                        476.97
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.8459,
+                    "bounding_box_xyxy": [
+                        615.76,
+                        236.91,
+                        853.56,
+                        445.28
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.843,
+                    "bounding_box_xyxy": [
+                        74.06,
+                        281.79,
+                        307.75,
+                        477.63
+                    ]
+                }
+            ],
+            "object_count": 3
+        },
+        {
+            "frame_index": 83,
+            "timestamp_seconds": 83.0,
+            "source_frame": "data/frames/test_video/frame_0083.jpg",
+            "annotated_frame": "data/output/detections/frame_0083.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9187,
+                    "bounding_box_xyxy": [
+                        278.74,
+                        64.84,
+                        854.0,
+                        476.74
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.8379,
+                    "bounding_box_xyxy": [
+                        615.88,
+                        236.94,
+                        853.57,
+                        445.52
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.8362,
+                    "bounding_box_xyxy": [
+                        74.04,
+                        281.62,
+                        307.7,
+                        477.62
+                    ]
+                }
+            ],
+            "object_count": 3
+        },
+        {
+            "frame_index": 84,
+            "timestamp_seconds": 84.0,
+            "source_frame": "data/frames/test_video/frame_0084.jpg",
+            "annotated_frame": "data/output/detections/frame_0084.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.92,
+                    "bounding_box_xyxy": [
+                        278.46,
+                        65.68,
+                        854.0,
+                        476.7
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.8349,
+                    "bounding_box_xyxy": [
+                        74.01,
+                        281.6,
+                        308.54,
+                        477.59
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.83,
+                    "bounding_box_xyxy": [
+                        616.37,
+                        237.06,
+                        853.58,
+                        445.5
+                    ]
+                }
+            ],
+            "object_count": 3
+        },
+        {
+            "frame_index": 85,
+            "timestamp_seconds": 85.0,
+            "source_frame": "data/frames/test_video/frame_0085.jpg",
+            "annotated_frame": "data/output/detections/frame_0085.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9219,
+                    "bounding_box_xyxy": [
+                        278.5,
+                        64.32,
+                        853.99,
+                        476.83
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.8441,
+                    "bounding_box_xyxy": [
+                        74.05,
+                        281.66,
+                        307.49,
+                        477.62
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.8257,
+                    "bounding_box_xyxy": [
+                        616.38,
+                        237.0,
+                        853.59,
+                        445.62
+                    ]
+                }
+            ],
+            "object_count": 3
+        },
+        {
+            "frame_index": 86,
+            "timestamp_seconds": 86.0,
+            "source_frame": "data/frames/test_video/frame_0086.jpg",
+            "annotated_frame": "data/output/detections/frame_0086.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9225,
+                    "bounding_box_xyxy": [
+                        278.74,
+                        67.24,
+                        854.0,
+                        476.79
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.8417,
+                    "bounding_box_xyxy": [
+                        73.97,
+                        281.69,
+                        308.25,
+                        477.63
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.8218,
+                    "bounding_box_xyxy": [
+                        616.71,
+                        237.02,
+                        853.58,
+                        445.58
+                    ]
+                }
+            ],
+            "object_count": 3
+        },
+        {
+            "frame_index": 87,
+            "timestamp_seconds": 87.0,
+            "source_frame": "data/frames/test_video/frame_0087.jpg",
+            "annotated_frame": "data/output/detections/frame_0087.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9199,
+                    "bounding_box_xyxy": [
+                        278.49,
+                        68.43,
+                        854.0,
+                        476.91
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.8434,
+                    "bounding_box_xyxy": [
+                        74.0,
+                        281.68,
+                        307.21,
+                        477.67
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.822,
+                    "bounding_box_xyxy": [
+                        616.27,
+                        237.15,
+                        853.57,
+                        445.53
+                    ]
+                }
+            ],
+            "object_count": 3
+        },
+        {
+            "frame_index": 88,
+            "timestamp_seconds": 88.0,
+            "source_frame": "data/frames/test_video/frame_0088.jpg",
+            "annotated_frame": "data/output/detections/frame_0088.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9338,
+                    "bounding_box_xyxy": [
+                        277.16,
+                        67.51,
+                        853.39,
+                        476.74
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.8604,
+                    "bounding_box_xyxy": [
+                        74.32,
+                        281.43,
+                        306.59,
+                        477.64
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.8263,
+                    "bounding_box_xyxy": [
+                        615.25,
+                        236.11,
+                        853.45,
+                        445.22
+                    ]
+                }
+            ],
+            "object_count": 3
+        },
+        {
+            "frame_index": 89,
+            "timestamp_seconds": 89.0,
+            "source_frame": "data/frames/test_video/frame_0089.jpg",
+            "annotated_frame": "data/output/detections/frame_0089.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9346,
+                    "bounding_box_xyxy": [
+                        278.64,
+                        67.81,
+                        853.38,
+                        476.83
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.8687,
+                    "bounding_box_xyxy": [
+                        74.31,
+                        281.39,
+                        306.0,
+                        477.65
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.8214,
+                    "bounding_box_xyxy": [
+                        615.48,
+                        236.15,
+                        853.46,
+                        445.26
+                    ]
+                }
+            ],
+            "object_count": 3
+        },
+        {
+            "frame_index": 90,
+            "timestamp_seconds": 90.0,
+            "source_frame": "data/frames/test_video/frame_0090.jpg",
+            "annotated_frame": "data/output/detections/frame_0090.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9344,
+                    "bounding_box_xyxy": [
+                        278.37,
+                        65.21,
+                        853.43,
+                        476.66
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.8723,
+                    "bounding_box_xyxy": [
+                        74.36,
+                        281.38,
+                        306.56,
+                        477.64
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.8282,
+                    "bounding_box_xyxy": [
+                        615.28,
+                        236.17,
+                        853.49,
+                        445.35
+                    ]
+                }
+            ],
+            "object_count": 3
+        },
+        {
+            "frame_index": 91,
+            "timestamp_seconds": 91.0,
+            "source_frame": "data/frames/test_video/frame_0091.jpg",
+            "annotated_frame": "data/output/detections/frame_0091.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9213,
+                    "bounding_box_xyxy": [
+                        524.39,
+                        82.92,
+                        853.19,
+                        472.05
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9117,
+                    "bounding_box_xyxy": [
+                        69.74,
+                        68.14,
+                        381.86,
+                        473.89
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8508,
+                    "bounding_box_xyxy": [
+                        349.78,
+                        103.54,
+                        505.79,
+                        253.28
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.6981,
+                    "bounding_box_xyxy": [
+                        522.65,
+                        102.27,
+                        691.79,
+                        302.71
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.6671,
+                    "bounding_box_xyxy": [
+                        173.67,
+                        245.73,
+                        759.48,
+                        474.63
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5126,
+                    "bounding_box_xyxy": [
+                        0.13,
+                        190.34,
+                        49.42,
+                        293.94
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.2793,
+                    "bounding_box_xyxy": [
+                        22.32,
+                        332.58,
+                        90.76,
+                        477.58
+                    ]
+                }
+            ],
+            "object_count": 7
+        },
+        {
+            "frame_index": 92,
+            "timestamp_seconds": 92.0,
+            "source_frame": "data/frames/test_video/frame_0092.jpg",
+            "annotated_frame": "data/output/detections/frame_0092.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9207,
+                    "bounding_box_xyxy": [
+                        525.29,
+                        83.6,
+                        853.47,
+                        471.71
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9118,
+                    "bounding_box_xyxy": [
+                        66.39,
+                        63.68,
+                        375.89,
+                        473.89
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8734,
+                    "bounding_box_xyxy": [
+                        350.41,
+                        104.48,
+                        505.15,
+                        255.04
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.7156,
+                    "bounding_box_xyxy": [
+                        520.68,
+                        102.78,
+                        691.18,
+                        303.89
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.6953,
+                    "bounding_box_xyxy": [
+                        174.3,
+                        244.25,
+                        763.58,
+                        474.48
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.583,
+                    "bounding_box_xyxy": [
+                        0.12,
+                        190.4,
+                        49.36,
+                        293.73
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.2907,
+                    "bounding_box_xyxy": [
+                        22.68,
+                        332.91,
+                        96.44,
+                        477.45
+                    ]
+                }
+            ],
+            "object_count": 7
+        },
+        {
+            "frame_index": 93,
+            "timestamp_seconds": 93.0,
+            "source_frame": "data/frames/test_video/frame_0093.jpg",
+            "annotated_frame": "data/output/detections/frame_0093.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9178,
+                    "bounding_box_xyxy": [
+                        524.8,
+                        83.77,
+                        853.31,
+                        471.38
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8991,
+                    "bounding_box_xyxy": [
+                        65.67,
+                        64.7,
+                        382.1,
+                        473.56
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8642,
+                    "bounding_box_xyxy": [
+                        349.47,
+                        104.96,
+                        505.12,
+                        251.72
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.6849,
+                    "bounding_box_xyxy": [
+                        519.85,
+                        102.97,
+                        689.79,
+                        308.69
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.6677,
+                    "bounding_box_xyxy": [
+                        173.44,
+                        246.64,
+                        766.32,
+                        474.81
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5909,
+                    "bounding_box_xyxy": [
+                        0.12,
+                        190.42,
+                        49.43,
+                        295.01
+                    ]
+                }
+            ],
+            "object_count": 6
+        },
+        {
+            "frame_index": 94,
+            "timestamp_seconds": 94.0,
+            "source_frame": "data/frames/test_video/frame_0094.jpg",
+            "annotated_frame": "data/output/detections/frame_0094.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9214,
+                    "bounding_box_xyxy": [
+                        524.44,
+                        83.74,
+                        853.39,
+                        471.55
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8802,
+                    "bounding_box_xyxy": [
+                        65.77,
+                        64.92,
+                        392.42,
+                        473.49
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8528,
+                    "bounding_box_xyxy": [
+                        349.45,
+                        104.68,
+                        505.62,
+                        254.22
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.6986,
+                    "bounding_box_xyxy": [
+                        518.36,
+                        103.17,
+                        691.9,
+                        317.38
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.6197,
+                    "bounding_box_xyxy": [
+                        175.33,
+                        248.36,
+                        764.51,
+                        475.06
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.6025,
+                    "bounding_box_xyxy": [
+                        0.12,
+                        190.31,
+                        49.63,
+                        294.82
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.2765,
+                    "bounding_box_xyxy": [
+                        22.6,
+                        332.28,
+                        97.11,
+                        477.45
+                    ]
+                }
+            ],
+            "object_count": 7
+        },
+        {
+            "frame_index": 95,
+            "timestamp_seconds": 95.0,
+            "source_frame": "data/frames/test_video/frame_0095.jpg",
+            "annotated_frame": "data/output/detections/frame_0095.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9206,
+                    "bounding_box_xyxy": [
+                        523.35,
+                        83.81,
+                        853.46,
+                        471.58
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9024,
+                    "bounding_box_xyxy": [
+                        65.21,
+                        64.98,
+                        383.93,
+                        473.51
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.847,
+                    "bounding_box_xyxy": [
+                        349.39,
+                        104.13,
+                        505.12,
+                        249.87
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.6704,
+                    "bounding_box_xyxy": [
+                        520.52,
+                        103.02,
+                        691.46,
+                        316.44
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.6058,
+                    "bounding_box_xyxy": [
+                        0.11,
+                        190.31,
+                        49.63,
+                        295.27
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.4921,
+                    "bounding_box_xyxy": [
+                        174.59,
+                        250.5,
+                        766.99,
+                        475.0
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3103,
+                    "bounding_box_xyxy": [
+                        21.38,
+                        332.1,
+                        93.08,
+                        477.21
+                    ]
+                }
+            ],
+            "object_count": 7
+        },
+        {
+            "frame_index": 96,
+            "timestamp_seconds": 96.0,
+            "source_frame": "data/frames/test_video/frame_0096.jpg",
+            "annotated_frame": "data/output/detections/frame_0096.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9226,
+                    "bounding_box_xyxy": [
+                        524.45,
+                        83.74,
+                        853.47,
+                        471.49
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8928,
+                    "bounding_box_xyxy": [
+                        64.13,
+                        65.36,
+                        387.88,
+                        473.47
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8394,
+                    "bounding_box_xyxy": [
+                        349.79,
+                        105.58,
+                        505.8,
+                        255.4
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.693,
+                    "bounding_box_xyxy": [
+                        518.09,
+                        103.24,
+                        691.35,
+                        319.28
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.6061,
+                    "bounding_box_xyxy": [
+                        175.16,
+                        248.4,
+                        765.99,
+                        475.26
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5989,
+                    "bounding_box_xyxy": [
+                        0.12,
+                        190.3,
+                        49.53,
+                        295.27
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.292,
+                    "bounding_box_xyxy": [
+                        21.44,
+                        331.81,
+                        91.94,
+                        477.15
+                    ]
+                }
+            ],
+            "object_count": 7
+        },
+        {
+            "frame_index": 97,
+            "timestamp_seconds": 97.0,
+            "source_frame": "data/frames/test_video/frame_0097.jpg",
+            "annotated_frame": "data/output/detections/frame_0097.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9168,
+                    "bounding_box_xyxy": [
+                        524.24,
+                        83.81,
+                        853.41,
+                        471.56
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8986,
+                    "bounding_box_xyxy": [
+                        65.42,
+                        65.17,
+                        387.08,
+                        473.72
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8344,
+                    "bounding_box_xyxy": [
+                        350.59,
+                        106.08,
+                        506.5,
+                        256.66
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.6424,
+                    "bounding_box_xyxy": [
+                        520.93,
+                        106.77,
+                        690.56,
+                        310.37
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.5927,
+                    "bounding_box_xyxy": [
+                        0.12,
+                        190.31,
+                        49.5,
+                        295.26
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.5836,
+                    "bounding_box_xyxy": [
+                        175.01,
+                        248.51,
+                        764.53,
+                        475.27
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3265,
+                    "bounding_box_xyxy": [
+                        21.53,
+                        332.25,
+                        93.19,
+                        477.31
+                    ]
+                }
+            ],
+            "object_count": 7
+        },
+        {
+            "frame_index": 98,
+            "timestamp_seconds": 98.0,
+            "source_frame": "data/frames/test_video/frame_0098.jpg",
+            "annotated_frame": "data/output/detections/frame_0098.jpg",
+            "objects": [
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.9135,
+                    "bounding_box_xyxy": [
+                        524.26,
+                        84.57,
+                        853.73,
+                        471.89
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8941,
+                    "bounding_box_xyxy": [
+                        61.73,
+                        67.72,
+                        387.16,
+                        473.4
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.8596,
+                    "bounding_box_xyxy": [
+                        350.53,
+                        105.52,
+                        506.61,
+                        255.58
+                    ]
+                },
+                {
+                    "class_id": 60,
+                    "label": "dining table",
+                    "confidence": 0.6421,
+                    "bounding_box_xyxy": [
+                        174.58,
+                        247.39,
+                        766.17,
+                        475.14
+                    ]
+                },
+                {
+                    "class_id": 0,
+                    "label": "person",
+                    "confidence": 0.6416,
+                    "bounding_box_xyxy": [
+                        515.57,
+                        109.37,
+                        685.51,
+                        306.66
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.606,
+                    "bounding_box_xyxy": [
+                        0.11,
+                        190.2,
+                        49.92,
+                        295.45
+                    ]
+                },
+                {
+                    "class_id": 56,
+                    "label": "chair",
+                    "confidence": 0.3531,
+                    "bounding_box_xyxy": [
+                        21.58,
+                        331.7,
+                        93.23,
+                        477.38
+                    ]
+                }
+            ],
+            "object_count": 7
+        }
+    ]
+}

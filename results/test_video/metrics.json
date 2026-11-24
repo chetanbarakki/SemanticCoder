@@ -1,0 +1,58 @@
+{
+    "clip_name": "test_video",
+    "input_video": "/home/srinivasa/semantic-codec/data/input_real/test_video.mp4",
+    "total_wall_seconds": 107.481,
+    "stages": {
+        "ingestion": {
+            "wall_seconds": 3.409,
+            "vram_peak_mb": 498.1,
+            "rss_peak_mb": 646.0
+        },
+        "scene_detection": {
+            "wall_seconds": 3.074,
+            "vram_peak_mb": 498.1,
+            "rss_peak_mb": 656.6
+        },
+        "whisper": {
+            "wall_seconds": 13.128,
+            "vram_peak_mb": 607.2,
+            "rss_peak_mb": 1175.7
+        },
+        "yolo": {
+            "wall_seconds": 4.273,
+            "vram_peak_mb": 735.2,
+            "rss_peak_mb": 2041.1
+        },
+        "keyframe_extraction": {
+            "wall_seconds": 0.004,
+            "vram_peak_mb": 735.2,
+            "rss_peak_mb": 2041.1
+        },
+        "vlm": {
+            "wall_seconds": 77.343,
+            "vram_peak_mb": 4800.4,
+            "rss_peak_mb": 2041.1
+        },
+        "semantic_representation": {
+            "wall_seconds": 0.025,
+            "vram_peak_mb": 4800.4,
+            "rss_peak_mb": 1646.8
+        },
+        "packaging": {
+            "wall_seconds": 0.077,
+            "vram_peak_mb": 4800.4,
+            "rss_peak_mb": 1647.0
+        },
+        "decode": {
+            "wall_seconds": 6.148,
+            "vram_peak_mb": 4800.4,
+            "rss_peak_mb": 1647.0
+        }
+    },
+    "encoding": {
+        "original_size_bytes": 3263520,
+        "encoded_size_bytes": 771003,
+        "size_reduction_percent": 76.38,
+        "size_ratio_original_to_package": 4.23
+    }
+}

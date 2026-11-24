@@ -1,0 +1,10 @@
+{
+    "original_video": "test_video.mp4",
+    "original_size_bytes": 3263520,
+    "encoded_package": "semantic_package.zip",
+    "encoded_size_bytes": 771003,
+    "keyframe_data_bytes_uncompressed": 758257,
+    "size_reduction_percent": 76.38,
+    "size_ratio_original_to_package": 4.23,
+    "note": "Semantic, lossy representation. Not a quality-equivalent codec comparison."
+}
